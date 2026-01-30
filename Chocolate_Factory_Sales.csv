@@ -1,0 +1,1095 @@
+﻿Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Andria Kimpton,Australia,50% Dark Bites,2022-06-02 00:00:00,4438,227
+Andria Kimpton,Australia,85% Dark Bars,2022-08-23 00:00:00,4186,233
+Andria Kimpton,Australia,Almond Choco,2022-04-25 00:00:00,3192,175
+Andria Kimpton,Australia,Baker's Choco Chips,2022-08-09 00:00:00,329,109
+Andria Kimpton,Australia,Drinking Coco,2022-06-28 00:00:00,1603,48
+Andria Kimpton,Australia,Manuka Honey Choco,2022-03-30 00:00:00,9744,377
+Andria Kimpton,Australia,Peanut Butter Cubes,2022-04-20 00:00:00,6678,148
+Andria Kimpton,Canada,70% Dark Bites,2022-04-08 00:00:00,10262,15
+Andria Kimpton,Canada,After Nines,2022-05-11 00:00:00,2163,70
+Andria Kimpton,Canada,Caramel Stuffed Bars,2022-01-03 00:00:00,7154,348
+Andria Kimpton,Canada,Eclairs,2022-08-11 00:00:00,308,125
+Andria Kimpton,Canada,Manuka Honey Choco,2022-07-21 00:00:00,4858,488
+Andria Kimpton,Canada,Organic Choco Syrup,2022-01-04 00:00:00,8204,204
+Andria Kimpton,Canada,Peanut Butter Cubes,2022-02-16 00:00:00,1127,319
+Andria Kimpton,Canada,Smooth Sliky Salty,2022-07-08 00:00:00,1155,79
+Andria Kimpton,Canada,White Choc,2022-02-14 00:00:00,4067,29
+Andria Kimpton,India,50% Dark Bites,2022-01-31 00:00:00,13482,15
+Andria Kimpton,India,After Nines,2022-01-17 00:00:00,952,68
+Andria Kimpton,India,Eclairs,2022-05-16 00:00:00,2149,84
+Andria Kimpton,India,Orange Choco,2022-05-30 00:00:00,301,421
+Andria Kimpton,India,Organic Choco Syrup,2022-01-18 00:00:00,3955,134
+Andria Kimpton,India,Spicy Special Slims,2022-02-23 00:00:00,6307,142
+Andria Kimpton,New Zealand,50% Dark Bites,2022-03-02 00:00:00,3374,202
+Andria Kimpton,New Zealand,Almond Choco,2022-04-05 00:00:00,6559,158
+Andria Kimpton,New Zealand,Mint Chip Choco,2022-02-15 00:00:00,8848,211
+Andria Kimpton,New Zealand,Orange Choco,2022-06-14 00:00:00,8169,88
+Andria Kimpton,New Zealand,Organic Choco Syrup,2022-03-04 00:00:00,4935,39
+Andria Kimpton,New Zealand,Peanut Butter Cubes,2022-06-20 00:00:00,959,265
+Andria Kimpton,UK,50% Dark Bites,2022-08-24 00:00:00,2653,314
+Andria Kimpton,UK,99% Dark & Pure,2022-07-25 00:00:00,1155,66
+Andria Kimpton,UK,Caramel Stuffed Bars,2022-06-07 00:00:00,7924,275
+Andria Kimpton,UK,Drinking Coco,2022-05-23 00:00:00,1554,65
+Andria Kimpton,UK,Milk Bars,2022-02-11 00:00:00,14336,293
+Andria Kimpton,UK,White Choc,2022-05-12 00:00:00,9037,101
+Andria Kimpton,USA,85% Dark Bars,2022-04-05 00:00:00,8911,82
+Andria Kimpton,USA,Caramel Stuffed Bars,2022-05-02 00:00:00,8393,46
+Andria Kimpton,USA,Fruit & Nut Bars,2022-07-15 00:00:00,1456,359
+Andria Kimpton,USA,Raspberry Choco,2022-06-30 00:00:00,14504,21
+Andria Kimpton,USA,Spicy Special Slims,2022-05-23 00:00:00,2366,5
+Barr Faughny,Australia,85% Dark Bars,2022-02-10 00:00:00,8498,44
+Barr Faughny,Australia,Caramel Stuffed Bars,2022-07-29 00:00:00,2933,55
+Barr Faughny,Australia,Fruit & Nut Bars,2022-06-30 00:00:00,15421,55
+Barr Faughny,Australia,Organic Choco Syrup,2022-01-07 00:00:00,2303,33
+Barr Faughny,Australia,Raspberry Choco,2022-05-27 00:00:00,9268,100
+Barr Faughny,Australia,White Choc,2022-07-04 00:00:00,8113,370
+Barr Faughny,Canada,50% Dark Bites,2022-07-19 00:00:00,10185,303
+Barr Faughny,Canada,Baker's Choco Chips,2022-02-03 00:00:00,10969,170
+Barr Faughny,Canada,Drinking Coco,2022-04-18 00:00:00,6237,247
+Barr Faughny,Canada,Manuka Honey Choco,2022-08-25 00:00:00,3402,249
+Barr Faughny,Canada,Orange Choco,2022-06-30 00:00:00,7602,18
+Barr Faughny,Canada,Organic Choco Syrup,2022-03-10 00:00:00,1141,205
+Barr Faughny,Canada,Peanut Butter Cubes,2022-06-07 00:00:00,2100,78
+Barr Faughny,Canada,White Choc,2022-03-29 00:00:00,4291,1
+Barr Faughny,India,After Nines,2022-07-29 00:00:00,8190,109
+Barr Faughny,India,Baker's Choco Chips,2022-08-18 00:00:00,6454,141
+Barr Faughny,India,Caramel Stuffed Bars,2022-01-04 00:00:00,6566,99
+Barr Faughny,India,Drinking Coco,2022-01-28 00:00:00,2219,142
+Barr Faughny,India,Mint Chip Choco,2022-01-12 00:00:00,7413,465
+Barr Faughny,New Zealand,50% Dark Bites,2022-06-23 00:00:00,4557,308
+Barr Faughny,New Zealand,85% Dark Bars,2022-05-23 00:00:00,2100,157
+Barr Faughny,New Zealand,99% Dark & Pure,2022-05-24 00:00:00,8134,195
+Barr Faughny,New Zealand,After Nines,2022-04-19 00:00:00,10024,84
+Barr Faughny,New Zealand,Almond Choco,2022-01-13 00:00:00,5558,127
+Barr Faughny,New Zealand,Eclairs,2022-03-28 00:00:00,6713,31
+Barr Faughny,New Zealand,Fruit & Nut Bars,2022-04-26 00:00:00,1687,147
+Barr Faughny,New Zealand,Manuka Honey Choco,2022-02-24 00:00:00,5474,239
+Barr Faughny,New Zealand,Mint Chip Choco,2022-02-21 00:00:00,6440,145
+Barr Faughny,New Zealand,Raspberry Choco,2022-07-29 00:00:00,6468,66
+Barr Faughny,New Zealand,Smooth Sliky Salty,2022-01-25 00:00:00,3990,169
+Barr Faughny,UK,50% Dark Bites,2022-01-28 00:00:00,581,65
+Barr Faughny,UK,Milk Bars,2022-03-02 00:00:00,3864,430
+Barr Faughny,UK,Mint Chip Choco,2022-07-07 00:00:00,3724,316
+Barr Faughny,UK,Raspberry Choco,2022-08-22 00:00:00,5481,69
+Barr Faughny,UK,White Choc,2022-07-05 00:00:00,1652,72
+Barr Faughny,USA,50% Dark Bites,2022-04-14 00:00:00,13034,117
+Barr Faughny,USA,85% Dark Bars,2022-08-25 00:00:00,12761,47
+Barr Faughny,USA,Almond Choco,2022-02-03 00:00:00,385,78
+Barr Faughny,USA,Caramel Stuffed Bars,2022-03-29 00:00:00,3318,299
+Barr Faughny,USA,Fruit & Nut Bars,2022-01-28 00:00:00,9058,46
+Barr Faughny,USA,Orange Choco,2022-03-10 00:00:00,3703,11
+Barr Faughny,USA,Raspberry Choco,2022-04-12 00:00:00,9282,101
+Barr Faughny,USA,White Choc,2022-05-05 00:00:00,7420,163
+Beverie Moffet,Australia,50% Dark Bites,2022-05-16 00:00:00,700,457
+Beverie Moffet,Australia,Baker's Choco Chips,2022-08-04 00:00:00,3192,109
+Beverie Moffet,Australia,Eclairs,2022-06-20 00:00:00,1827,6
+Beverie Moffet,Australia,Fruit & Nut Bars,2022-04-22 00:00:00,1435,258
+Beverie Moffet,Australia,Milk Bars,2022-05-25 00:00:00,735,390
+Beverie Moffet,Australia,Organic Choco Syrup,2022-01-26 00:00:00,6790,356
+Beverie Moffet,Australia,Smooth Sliky Salty,2022-01-25 00:00:00,10507,467
+Beverie Moffet,Australia,White Choc,2022-06-27 00:00:00,2240,166
+Beverie Moffet,Canada,85% Dark Bars,2022-02-16 00:00:00,6139,45
+Beverie Moffet,Canada,Baker's Choco Chips,2022-01-11 00:00:00,13447,95
+Beverie Moffet,Canada,Drinking Coco,2022-07-05 00:00:00,994,118
+Beverie Moffet,Canada,Fruit & Nut Bars,2022-02-14 00:00:00,10332,180
+Beverie Moffet,Canada,Milk Bars,2022-02-16 00:00:00,8799,250
+Beverie Moffet,Canada,Orange Choco,2022-05-10 00:00:00,8722,109
+Beverie Moffet,Canada,Smooth Sliky Salty,2022-02-28 00:00:00,14287,370
+Beverie Moffet,Canada,White Choc,2022-07-15 00:00:00,9275,173
+Beverie Moffet,India,70% Dark Bites,2022-06-01 00:00:00,448,146
+Beverie Moffet,India,Almond Choco,2022-05-24 00:00:00,3066,96
+Beverie Moffet,India,Choco Coated Almonds,2022-02-24 00:00:00,3577,261
+Beverie Moffet,India,Drinking Coco,2022-07-15 00:00:00,6055,46
+Beverie Moffet,India,Eclairs,2022-06-09 00:00:00,10325,147
+Beverie Moffet,India,Manuka Honey Choco,2022-05-06 00:00:00,9835,167
+Beverie Moffet,India,Milk Bars,2022-04-15 00:00:00,1869,323
+Beverie Moffet,India,Organic Choco Syrup,2022-06-23 00:00:00,1036,20
+Beverie Moffet,India,Spicy Special Slims,2022-04-21 00:00:00,3339,171
+Beverie Moffet,India,White Choc,2022-07-04 00:00:00,1813,296
+Beverie Moffet,New Zealand,85% Dark Bars,2022-08-30 00:00:00,11200,22
+Beverie Moffet,New Zealand,Baker's Choco Chips,2022-08-03 00:00:00,1372,144
+Beverie Moffet,New Zealand,Drinking Coco,2022-01-12 00:00:00,1141,518
+Beverie Moffet,New Zealand,Mint Chip Choco,2022-06-09 00:00:00,4361,97
+Beverie Moffet,New Zealand,Organic Choco Syrup,2022-05-24 00:00:00,6678,226
+Beverie Moffet,New Zealand,Peanut Butter Cubes,2022-02-23 00:00:00,10822,30
+Beverie Moffet,New Zealand,Smooth Sliky Salty,2022-05-19 00:00:00,2387,59
+Beverie Moffet,New Zealand,Spicy Special Slims,2022-06-07 00:00:00,63,60
+Beverie Moffet,New Zealand,White Choc,2022-03-24 00:00:00,7126,7
+Beverie Moffet,UK,50% Dark Bites,2022-02-09 00:00:00,2499,271
+Beverie Moffet,UK,99% Dark & Pure,2022-08-10 00:00:00,3486,121
+Beverie Moffet,UK,Almond Choco,2022-05-16 00:00:00,2506,100
+Beverie Moffet,UK,Choco Coated Almonds,2022-03-04 00:00:00,3010,69
+Beverie Moffet,UK,Eclairs,2022-04-22 00:00:00,8463,155
+Beverie Moffet,UK,Smooth Sliky Salty,2022-05-04 00:00:00,4403,76
+Beverie Moffet,UK,Spicy Special Slims,2022-02-17 00:00:00,8680,252
+Beverie Moffet,UK,White Choc,2022-06-30 00:00:00,6475,76
+Beverie Moffet,USA,50% Dark Bites,2022-07-28 00:00:00,2450,352
+Beverie Moffet,USA,70% Dark Bites,2022-06-27 00:00:00,2275,115
+Beverie Moffet,USA,85% Dark Bars,2022-08-23 00:00:00,12404,334
+Beverie Moffet,USA,Peanut Butter Cubes,2022-08-18 00:00:00,13930,339
+Beverie Moffet,USA,Raspberry Choco,2022-04-19 00:00:00,14798,83
+Beverie Moffet,USA,Smooth Sliky Salty,2022-03-24 00:00:00,2317,352
+Beverie Moffet,USA,White Choc,2022-03-11 00:00:00,5292,134
+Brien Boise,Australia,99% Dark & Pure,2022-07-04 00:00:00,2835,102
+Brien Boise,Australia,Baker's Choco Chips,2022-01-04 00:00:00,12516,212
+Brien Boise,Australia,Choco Coated Almonds,2022-05-25 00:00:00,5124,62
+Brien Boise,Australia,Drinking Coco,2022-07-27 00:00:00,6832,156
+Brien Boise,Australia,Eclairs,2022-06-27 00:00:00,6888,88
+Brien Boise,Australia,Fruit & Nut Bars,2022-06-06 00:00:00,8575,23
+Brien Boise,Australia,Milk Bars,2022-07-27 00:00:00,1981,52
+Brien Boise,Australia,Organic Choco Syrup,2022-07-15 00:00:00,4263,264
+Brien Boise,Australia,Peanut Butter Cubes,2022-08-19 00:00:00,301,205
+Brien Boise,Australia,Spicy Special Slims,2022-05-09 00:00:00,6223,256
+Brien Boise,Australia,White Choc,2022-08-25 00:00:00,4879,22
+Brien Boise,Canada,85% Dark Bars,2022-02-17 00:00:00,10241,259
+Brien Boise,Canada,99% Dark & Pure,2022-05-18 00:00:00,16793,416
+Brien Boise,Canada,Almond Choco,2022-04-13 00:00:00,4781,125
+Brien Boise,Canada,Manuka Honey Choco,2022-08-09 00:00:00,6930,182
+Brien Boise,Canada,Mint Chip Choco,2022-01-28 00:00:00,5033,178
+Brien Boise,Canada,Raspberry Choco,2022-06-14 00:00:00,2800,45
+Brien Boise,Canada,Smooth Sliky Salty,2022-05-13 00:00:00,5691,495
+Brien Boise,Canada,Spicy Special Slims,2022-03-04 00:00:00,8106,101
+Brien Boise,India,70% Dark Bites,2022-04-14 00:00:00,4641,413
+Brien Boise,India,85% Dark Bars,2022-08-09 00:00:00,18032,205
+Brien Boise,India,After Nines,2022-06-16 00:00:00,5747,45
+Brien Boise,India,Almond Choco,2022-01-13 00:00:00,2170,218
+Brien Boise,India,Caramel Stuffed Bars,2022-02-25 00:00:00,1540,100
+Brien Boise,India,Eclairs,2022-04-29 00:00:00,1351,61
+Brien Boise,India,Milk Bars,2022-02-22 00:00:00,13503,251
+Brien Boise,India,Raspberry Choco,2022-05-30 00:00:00,6328,164
+Brien Boise,India,Smooth Sliky Salty,2022-05-27 00:00:00,5964,26
+Brien Boise,India,Spicy Special Slims,2022-01-28 00:00:00,1302,33
+Brien Boise,New Zealand,70% Dark Bites,2022-06-15 00:00:00,7231,130
+Brien Boise,New Zealand,Baker's Choco Chips,2022-07-12 00:00:00,5978,24
+Brien Boise,New Zealand,Drinking Coco,2022-06-06 00:00:00,1582,100
+Brien Boise,New Zealand,Eclairs,2022-07-11 00:00:00,4690,299
+Brien Boise,New Zealand,Manuka Honey Choco,2022-06-14 00:00:00,14980,42
+Brien Boise,New Zealand,Mint Chip Choco,2022-08-01 00:00:00,63,181
+Brien Boise,New Zealand,Organic Choco Syrup,2022-01-17 00:00:00,637,313
+Brien Boise,New Zealand,Smooth Sliky Salty,2022-01-18 00:00:00,1015,27
+Brien Boise,New Zealand,White Choc,2022-06-15 00:00:00,5509,321
+Brien Boise,UK,Almond Choco,2022-05-25 00:00:00,105,125
+Brien Boise,UK,Caramel Stuffed Bars,2022-03-04 00:00:00,2681,149
+Brien Boise,UK,Drinking Coco,2022-01-27 00:00:00,5754,133
+Brien Boise,UK,Manuka Honey Choco,2022-06-28 00:00:00,70,103
+Brien Boise,UK,Peanut Butter Cubes,2022-01-10 00:00:00,15330,30
+Brien Boise,UK,Spicy Special Slims,2022-05-25 00:00:00,2352,58
+Brien Boise,UK,White Choc,2022-04-12 00:00:00,5299,167
+Brien Boise,USA,70% Dark Bites,2022-04-14 00:00:00,1694,21
+Brien Boise,USA,99% Dark & Pure,2022-07-25 00:00:00,6769,353
+Brien Boise,USA,Manuka Honey Choco,2022-08-22 00:00:00,1904,8
+Brien Boise,USA,Milk Bars,2022-07-07 00:00:00,14301,130
+Brien Boise,USA,Mint Chip Choco,2022-05-25 00:00:00,10577,150
+Brien Boise,USA,Orange Choco,2022-01-28 00:00:00,6020,147
+Brien Boise,USA,Organic Choco Syrup,2022-05-25 00:00:00,16233,138
+Brien Boise,USA,Raspberry Choco,2022-01-12 00:00:00,672,194
+Camilla Castle,Australia,70% Dark Bites,2022-04-29 00:00:00,6048,477
+Camilla Castle,Australia,85% Dark Bars,2022-05-19 00:00:00,3654,14
+Camilla Castle,Australia,99% Dark & Pure,2022-01-18 00:00:00,4669,101
+Camilla Castle,Australia,Caramel Stuffed Bars,2022-05-02 00:00:00,3178,16
+Camilla Castle,Australia,Manuka Honey Choco,2022-03-17 00:00:00,637,169
+Camilla Castle,Australia,Raspberry Choco,2022-08-23 00:00:00,6342,178
+Camilla Castle,Australia,Smooth Sliky Salty,2022-03-03 00:00:00,7406,118
+Camilla Castle,Canada,70% Dark Bites,2022-07-27 00:00:00,9716,151
+Camilla Castle,Canada,Drinking Coco,2022-03-03 00:00:00,12481,264
+Camilla Castle,Canada,Orange Choco,2022-02-17 00:00:00,7770,54
+Camilla Castle,India,50% Dark Bites,2022-07-04 00:00:00,9275,411
+Camilla Castle,India,85% Dark Bars,2022-05-04 00:00:00,9023,51
+Camilla Castle,India,99% Dark & Pure,2022-08-02 00:00:00,203,207
+Camilla Castle,India,Drinking Coco,2022-08-08 00:00:00,469,163
+Camilla Castle,India,Peanut Butter Cubes,2022-07-15 00:00:00,11837,277
+Camilla Castle,New Zealand,85% Dark Bars,2022-08-08 00:00:00,15099,55
+Camilla Castle,New Zealand,99% Dark & Pure,2022-08-26 00:00:00,2268,42
+Camilla Castle,New Zealand,Caramel Stuffed Bars,2022-06-17 00:00:00,4137,347
+Camilla Castle,New Zealand,Mint Chip Choco,2022-06-13 00:00:00,1162,190
+Camilla Castle,New Zealand,Peanut Butter Cubes,2022-07-21 00:00:00,1582,62
+Camilla Castle,New Zealand,Raspberry Choco,2022-04-04 00:00:00,4746,137
+Camilla Castle,New Zealand,Spicy Special Slims,2022-01-25 00:00:00,11564,24
+Camilla Castle,UK,Mint Chip Choco,2022-05-26 00:00:00,4977,317
+Camilla Castle,UK,Peanut Butter Cubes,2022-07-19 00:00:00,4872,126
+Camilla Castle,UK,White Choc,2022-01-03 00:00:00,9982,187
+Camilla Castle,USA,50% Dark Bites,2022-06-23 00:00:00,5908,301
+Camilla Castle,USA,85% Dark Bars,2022-04-25 00:00:00,2401,78
+Camilla Castle,USA,Eclairs,2022-06-10 00:00:00,4515,392
+Camilla Castle,USA,Manuka Honey Choco,2022-03-21 00:00:00,16401,179
+Camilla Castle,USA,Raspberry Choco,2022-05-20 00:00:00,3339,18
+Camilla Castle,USA,Spicy Special Slims,2022-02-11 00:00:00,1274,244
+Camilla Castle,USA,White Choc,2022-08-18 00:00:00,9681,24
+Ches Bonnell,Australia,70% Dark Bites,2022-01-12 00:00:00,3136,125
+Ches Bonnell,Australia,Caramel Stuffed Bars,2022-01-17 00:00:00,8757,162
+Ches Bonnell,Australia,Choco Coated Almonds,2022-04-08 00:00:00,1470,167
+Ches Bonnell,Australia,Eclairs,2022-07-05 00:00:00,4116,128
+Ches Bonnell,Australia,Mint Chip Choco,2022-02-21 00:00:00,9660,92
+Ches Bonnell,Australia,Peanut Butter Cubes,2022-03-14 00:00:00,10199,68
+Ches Bonnell,Australia,Smooth Sliky Salty,2022-05-16 00:00:00,7490,54
+Ches Bonnell,Australia,White Choc,2022-03-02 00:00:00,1043,202
+Ches Bonnell,Canada,Baker's Choco Chips,2022-03-21 00:00:00,7462,371
+Ches Bonnell,Canada,Choco Coated Almonds,2022-08-24 00:00:00,15547,269
+Ches Bonnell,Canada,Eclairs,2022-01-10 00:00:00,1876,172
+Ches Bonnell,Canada,Organic Choco Syrup,2022-07-26 00:00:00,574,217
+Ches Bonnell,Canada,Smooth Sliky Salty,2022-03-16 00:00:00,9870,121
+Ches Bonnell,Canada,Spicy Special Slims,2022-08-05 00:00:00,5327,183
+Ches Bonnell,India,50% Dark Bites,2022-04-15 00:00:00,11298,313
+Ches Bonnell,India,99% Dark & Pure,2022-02-16 00:00:00,455,96
+Ches Bonnell,India,Almond Choco,2022-04-13 00:00:00,11788,73
+Ches Bonnell,India,Caramel Stuffed Bars,2022-06-15 00:00:00,6839,56
+Ches Bonnell,India,Choco Coated Almonds,2022-04-05 00:00:00,9625,78
+Ches Bonnell,India,Orange Choco,2022-02-16 00:00:00,1190,256
+Ches Bonnell,India,Organic Choco Syrup,2022-03-08 00:00:00,16569,99
+Ches Bonnell,India,Peanut Butter Cubes,2022-01-27 00:00:00,22050,208
+Ches Bonnell,India,Smooth Sliky Salty,2022-08-03 00:00:00,8043,18
+Ches Bonnell,India,Spicy Special Slims,2022-07-06 00:00:00,10906,94
+Ches Bonnell,New Zealand,After Nines,2022-06-23 00:00:00,5705,350
+Ches Bonnell,New Zealand,Caramel Stuffed Bars,2022-06-30 00:00:00,7588,42
+Ches Bonnell,New Zealand,Drinking Coco,2022-02-16 00:00:00,8302,131
+Ches Bonnell,New Zealand,Eclairs,2022-04-04 00:00:00,490,49
+Ches Bonnell,New Zealand,Milk Bars,2022-08-17 00:00:00,4389,126
+Ches Bonnell,New Zealand,Mint Chip Choco,2022-01-18 00:00:00,9058,229
+Ches Bonnell,New Zealand,Organic Choco Syrup,2022-07-15 00:00:00,7623,85
+Ches Bonnell,New Zealand,Peanut Butter Cubes,2022-03-04 00:00:00,889,273
+Ches Bonnell,New Zealand,Spicy Special Slims,2022-02-14 00:00:00,3556,18
+Ches Bonnell,UK,85% Dark Bars,2022-06-28 00:00:00,14924,12
+Ches Bonnell,UK,Caramel Stuffed Bars,2022-06-02 00:00:00,2926,300
+Ches Bonnell,UK,Choco Coated Almonds,2022-06-07 00:00:00,1687,236
+Ches Bonnell,UK,Manuka Honey Choco,2022-05-30 00:00:00,4221,395
+Ches Bonnell,UK,Mint Chip Choco,2022-04-08 00:00:00,2688,209
+Ches Bonnell,UK,Orange Choco,2022-04-27 00:00:00,14238,54
+Ches Bonnell,UK,Peanut Butter Cubes,2022-04-15 00:00:00,2156,260
+Ches Bonnell,UK,Smooth Sliky Salty,2022-07-11 00:00:00,5663,110
+Ches Bonnell,UK,White Choc,2022-01-03 00:00:00,3269,226
+Ches Bonnell,USA,70% Dark Bites,2022-05-11 00:00:00,4571,122
+Ches Bonnell,USA,Choco Coated Almonds,2022-01-04 00:00:00,14525,92
+Ches Bonnell,USA,Milk Bars,2022-07-21 00:00:00,2408,157
+Ches Bonnell,USA,Orange Choco,2022-06-10 00:00:00,1743,69
+Ches Bonnell,USA,Organic Choco Syrup,2022-07-28 00:00:00,7721,14
+Ches Bonnell,USA,White Choc,2022-02-11 00:00:00,5271,341
+Curtice Advani,Australia,50% Dark Bites,2022-06-29 00:00:00,504,232
+Curtice Advani,Australia,99% Dark & Pure,2022-01-07 00:00:00,4676,84
+Curtice Advani,Australia,After Nines,2022-08-11 00:00:00,63,105
+Curtice Advani,Australia,Almond Choco,2022-07-13 00:00:00,2912,75
+Curtice Advani,Australia,Caramel Stuffed Bars,2022-02-14 00:00:00,9114,140
+Curtice Advani,Australia,Eclairs,2022-03-25 00:00:00,5796,55
+Curtice Advani,Australia,Milk Bars,2022-02-14 00:00:00,6979,18
+Curtice Advani,Australia,Orange Choco,2022-07-12 00:00:00,854,136
+Curtice Advani,Australia,Organic Choco Syrup,2022-06-28 00:00:00,3472,311
+Curtice Advani,Canada,70% Dark Bites,2022-01-31 00:00:00,2303,7
+Curtice Advani,Canada,99% Dark & Pure,2022-07-07 00:00:00,12586,7
+Curtice Advani,Canada,Almond Choco,2022-03-24 00:00:00,4865,70
+Curtice Advani,Canada,Choco Coated Almonds,2022-08-18 00:00:00,5859,7
+Curtice Advani,Canada,Eclairs,2022-05-06 00:00:00,721,203
+Curtice Advani,Canada,Fruit & Nut Bars,2022-04-04 00:00:00,4193,195
+Curtice Advani,Canada,Organic Choco Syrup,2022-02-22 00:00:00,791,22
+Curtice Advani,Canada,Peanut Butter Cubes,2022-05-19 00:00:00,4935,63
+Curtice Advani,Canada,Smooth Sliky Salty,2022-08-01 00:00:00,2660,12
+Curtice Advani,Canada,Spicy Special Slims,2022-06-16 00:00:00,854,118
+Curtice Advani,India,70% Dark Bites,2022-07-05 00:00:00,2282,44
+Curtice Advani,India,85% Dark Bars,2022-01-18 00:00:00,273,402
+Curtice Advani,India,Fruit & Nut Bars,2022-07-07 00:00:00,5243,176
+Curtice Advani,India,Manuka Honey Choco,2022-05-23 00:00:00,1547,170
+Curtice Advani,India,Milk Bars,2022-04-05 00:00:00,3437,201
+Curtice Advani,India,Mint Chip Choco,2022-03-03 00:00:00,8155,96
+Curtice Advani,India,Smooth Sliky Salty,2022-04-19 00:00:00,19327,135
+Curtice Advani,India,Spicy Special Slims,2022-06-20 00:00:00,161,134
+Curtice Advani,India,White Choc,2022-07-04 00:00:00,7154,342
+Curtice Advani,New Zealand,50% Dark Bites,2022-01-27 00:00:00,9765,85
+Curtice Advani,New Zealand,85% Dark Bars,2022-05-12 00:00:00,5404,187
+Curtice Advani,New Zealand,After Nines,2022-04-05 00:00:00,7959,30
+Curtice Advani,New Zealand,Mint Chip Choco,2022-01-26 00:00:00,3220,265
+Curtice Advani,New Zealand,Peanut Butter Cubes,2022-03-15 00:00:00,1533,434
+Curtice Advani,New Zealand,Spicy Special Slims,2022-01-10 00:00:00,4074,469
+Curtice Advani,UK,50% Dark Bites,2022-03-08 00:00:00,3374,142
+Curtice Advani,UK,85% Dark Bars,2022-06-08 00:00:00,1085,172
+Curtice Advani,UK,Drinking Coco,2022-07-12 00:00:00,455,174
+Curtice Advani,UK,Fruit & Nut Bars,2022-06-24 00:00:00,10927,136
+Curtice Advani,UK,Manuka Honey Choco,2022-02-07 00:00:00,1666,106
+Curtice Advani,UK,Peanut Butter Cubes,2022-03-01 00:00:00,15008,165
+Curtice Advani,UK,White Choc,2022-02-01 00:00:00,1540,73
+Curtice Advani,USA,After Nines,2022-04-13 00:00:00,14147,235
+Curtice Advani,USA,Drinking Coco,2022-02-07 00:00:00,5187,142
+Curtice Advani,USA,Mint Chip Choco,2022-08-24 00:00:00,4802,296
+Curtice Advani,USA,Raspberry Choco,2022-03-15 00:00:00,2996,139
+Curtice Advani,USA,Spicy Special Slims,2022-07-11 00:00:00,1603,264
+Dennison Crosswaite,Australia,50% Dark Bites,2022-04-01 00:00:00,7287,12
+Dennison Crosswaite,Australia,70% Dark Bites,2022-02-07 00:00:00,5859,108
+Dennison Crosswaite,Australia,85% Dark Bars,2022-04-05 00:00:00,6881,420
+Dennison Crosswaite,Australia,99% Dark & Pure,2022-01-31 00:00:00,2758,18
+Dennison Crosswaite,Australia,Baker's Choco Chips,2022-01-11 00:00:00,13846,421
+Dennison Crosswaite,Australia,Drinking Coco,2022-07-13 00:00:00,7091,194
+Dennison Crosswaite,Australia,Milk Bars,2022-06-09 00:00:00,10038,286
+Dennison Crosswaite,Australia,Organic Choco Syrup,2022-05-10 00:00:00,5775,41
+Dennison Crosswaite,Australia,Raspberry Choco,2022-03-14 00:00:00,5740,31
+Dennison Crosswaite,Canada,85% Dark Bars,2022-08-01 00:00:00,10885,90
+Dennison Crosswaite,Canada,Choco Coated Almonds,2022-01-13 00:00:00,10479,118
+Dennison Crosswaite,Canada,Drinking Coco,2022-01-10 00:00:00,2702,24
+Dennison Crosswaite,Canada,Eclairs,2022-03-15 00:00:00,455,45
+Dennison Crosswaite,Canada,Mint Chip Choco,2022-04-08 00:00:00,1694,289
+Dennison Crosswaite,Canada,Organic Choco Syrup,2022-01-28 00:00:00,8491,75
+Dennison Crosswaite,Canada,Smooth Sliky Salty,2022-03-17 00:00:00,1750,479
+Dennison Crosswaite,Canada,Spicy Special Slims,2022-08-10 00:00:00,2527,216
+Dennison Crosswaite,India,85% Dark Bars,2022-06-30 00:00:00,4515,22
+Dennison Crosswaite,India,99% Dark & Pure,2022-06-23 00:00:00,6888,311
+Dennison Crosswaite,India,Fruit & Nut Bars,2022-07-29 00:00:00,952,24
+Dennison Crosswaite,India,Milk Bars,2022-04-21 00:00:00,1526,96
+Dennison Crosswaite,India,Mint Chip Choco,2022-03-23 00:00:00,13573,138
+Dennison Crosswaite,India,Orange Choco,2022-03-18 00:00:00,784,129
+Dennison Crosswaite,India,Organic Choco Syrup,2022-01-27 00:00:00,8428,216
+Dennison Crosswaite,India,Smooth Sliky Salty,2022-07-07 00:00:00,2975,9
+Dennison Crosswaite,New Zealand,Drinking Coco,2022-01-11 00:00:00,4109,197
+Dennison Crosswaite,New Zealand,Manuka Honey Choco,2022-06-15 00:00:00,5061,301
+Dennison Crosswaite,New Zealand,Mint Chip Choco,2022-04-05 00:00:00,6454,417
+Dennison Crosswaite,New Zealand,Orange Choco,2022-03-16 00:00:00,4571,140
+Dennison Crosswaite,New Zealand,Organic Choco Syrup,2022-01-04 00:00:00,371,229
+Dennison Crosswaite,New Zealand,White Choc,2022-07-05 00:00:00,9492,151
+Dennison Crosswaite,UK,99% Dark & Pure,2022-05-30 00:00:00,12187,27
+Dennison Crosswaite,UK,Baker's Choco Chips,2022-01-17 00:00:00,2275,275
+Dennison Crosswaite,UK,Eclairs,2022-03-24 00:00:00,6188,270
+Dennison Crosswaite,UK,Milk Bars,2022-03-07 00:00:00,10808,407
+Dennison Crosswaite,UK,Peanut Butter Cubes,2022-02-07 00:00:00,8925,158
+Dennison Crosswaite,UK,Smooth Sliky Salty,2022-04-26 00:00:00,546,142
+Dennison Crosswaite,UK,White Choc,2022-08-03 00:00:00,7238,265
+Dennison Crosswaite,USA,70% Dark Bites,2022-03-15 00:00:00,658,77
+Dennison Crosswaite,USA,Almond Choco,2022-06-30 00:00:00,11718,84
+Dennison Crosswaite,USA,Baker's Choco Chips,2022-08-11 00:00:00,17465,271
+Dennison Crosswaite,USA,Caramel Stuffed Bars,2022-07-11 00:00:00,2317,464
+Dennison Crosswaite,USA,Drinking Coco,2022-05-10 00:00:00,2191,138
+Dennison Crosswaite,USA,Eclairs,2022-05-25 00:00:00,2044,90
+Dennison Crosswaite,USA,Fruit & Nut Bars,2022-05-04 00:00:00,1414,318
+Dennison Crosswaite,USA,Milk Bars,2022-05-12 00:00:00,777,60
+Dennison Crosswaite,USA,Organic Choco Syrup,2022-07-18 00:00:00,12656,126
+Dennison Crosswaite,USA,Raspberry Choco,2022-01-18 00:00:00,6524,257
+Dennison Crosswaite,USA,Smooth Sliky Salty,2022-05-12 00:00:00,11781,91
+Dotty Strutley,Australia,50% Dark Bites,2022-05-12 00:00:00,3108,252
+Dotty Strutley,Australia,Almond Choco,2022-05-13 00:00:00,1456,91
+Dotty Strutley,Australia,Baker's Choco Chips,2022-06-07 00:00:00,3605,68
+Dotty Strutley,Australia,Choco Coated Almonds,2022-04-13 00:00:00,1645,284
+Dotty Strutley,Australia,Drinking Coco,2022-07-19 00:00:00,91,135
+Dotty Strutley,Australia,Eclairs,2022-01-26 00:00:00,6979,3
+Dotty Strutley,Australia,Fruit & Nut Bars,2022-08-23 00:00:00,280,311
+Dotty Strutley,Australia,Mint Chip Choco,2022-08-01 00:00:00,6790,25
+Dotty Strutley,Australia,Spicy Special Slims,2022-01-17 00:00:00,8225,91
+Dotty Strutley,Australia,White Choc,2022-07-05 00:00:00,6055,93
+Dotty Strutley,Canada,After Nines,2022-01-17 00:00:00,252,237
+Dotty Strutley,Canada,Manuka Honey Choco,2022-04-22 00:00:00,11550,111
+Dotty Strutley,Canada,Raspberry Choco,2022-08-03 00:00:00,4347,238
+Dotty Strutley,India,Eclairs,2022-07-28 00:00:00,2086,384
+Dotty Strutley,India,Mint Chip Choco,2022-04-14 00:00:00,1260,239
+Dotty Strutley,India,Peanut Butter Cubes,2022-02-16 00:00:00,9107,73
+Dotty Strutley,India,Spicy Special Slims,2022-08-12 00:00:00,910,204
+Dotty Strutley,India,White Choc,2022-08-15 00:00:00,12327,330
+Dotty Strutley,New Zealand,99% Dark & Pure,2022-05-09 00:00:00,10724,203
+Dotty Strutley,New Zealand,Choco Coated Almonds,2022-01-04 00:00:00,5733,348
+Dotty Strutley,New Zealand,Orange Choco,2022-08-04 00:00:00,2030,146
+Dotty Strutley,New Zealand,Raspberry Choco,2022-02-10 00:00:00,5845,91
+Dotty Strutley,New Zealand,White Choc,2022-06-15 00:00:00,7014,60
+Dotty Strutley,UK,70% Dark Bites,2022-06-20 00:00:00,1267,216
+Dotty Strutley,UK,99% Dark & Pure,2022-01-03 00:00:00,9310,282
+Dotty Strutley,UK,Almond Choco,2022-07-28 00:00:00,16114,96
+Dotty Strutley,UK,Caramel Stuffed Bars,2022-08-10 00:00:00,5768,235
+Dotty Strutley,UK,Mint Chip Choco,2022-07-14 00:00:00,2443,216
+Dotty Strutley,USA,85% Dark Bars,2022-04-25 00:00:00,10220,508
+Dotty Strutley,USA,99% Dark & Pure,2022-08-09 00:00:00,3822,320
+Dotty Strutley,USA,Caramel Stuffed Bars,2022-04-15 00:00:00,16982,76
+Dotty Strutley,USA,Fruit & Nut Bars,2022-07-13 00:00:00,2898,276
+Dotty Strutley,USA,Manuka Honey Choco,2022-08-10 00:00:00,273,210
+Dotty Strutley,USA,Mint Chip Choco,2022-02-21 00:00:00,5292,248
+Dotty Strutley,USA,Orange Choco,2022-02-23 00:00:00,1379,107
+Dotty Strutley,USA,Raspberry Choco,2022-01-03 00:00:00,3437,46
+Gigi Bohling,Australia,70% Dark Bites,2022-08-18 00:00:00,1372,105
+Gigi Bohling,Australia,Almond Choco,2022-08-17 00:00:00,910,117
+Gigi Bohling,Australia,Caramel Stuffed Bars,2022-07-08 00:00:00,8001,151
+Gigi Bohling,Australia,Drinking Coco,2022-07-27 00:00:00,2807,139
+Gigi Bohling,Australia,Eclairs,2022-04-12 00:00:00,7252,136
+Gigi Bohling,Australia,Orange Choco,2022-03-09 00:00:00,574,156
+Gigi Bohling,Australia,Raspberry Choco,2022-03-30 00:00:00,6524,303
+Gigi Bohling,Australia,Smooth Sliky Salty,2022-01-25 00:00:00,5768,119
+Gigi Bohling,Australia,White Choc,2022-05-11 00:00:00,5523,87
+Gigi Bohling,Canada,Almond Choco,2022-02-01 00:00:00,9989,49
+Gigi Bohling,Canada,Baker's Choco Chips,2022-01-28 00:00:00,1505,47
+Gigi Bohling,Canada,Drinking Coco,2022-07-06 00:00:00,3549,82
+Gigi Bohling,Canada,Fruit & Nut Bars,2022-06-14 00:00:00,5782,103
+Gigi Bohling,Canada,Milk Bars,2022-02-10 00:00:00,3052,116
+Gigi Bohling,Canada,Spicy Special Slims,2022-07-04 00:00:00,11956,277
+Gigi Bohling,Canada,White Choc,2022-07-11 00:00:00,6587,4
+Gigi Bohling,India,Eclairs,2022-06-21 00:00:00,3493,68
+Gigi Bohling,India,Manuka Honey Choco,2022-05-12 00:00:00,4935,73
+Gigi Bohling,India,Peanut Butter Cubes,2022-07-07 00:00:00,4501,91
+Gigi Bohling,India,Raspberry Choco,2022-02-22 00:00:00,2583,159
+Gigi Bohling,India,White Choc,2022-04-13 00:00:00,1393,172
+Gigi Bohling,New Zealand,50% Dark Bites,2022-06-29 00:00:00,5670,64
+Gigi Bohling,New Zealand,After Nines,2022-01-21 00:00:00,5600,181
+Gigi Bohling,New Zealand,Fruit & Nut Bars,2022-04-04 00:00:00,10976,121
+Gigi Bohling,New Zealand,Manuka Honey Choco,2022-06-28 00:00:00,8267,272
+Gigi Bohling,New Zealand,Orange Choco,2022-05-16 00:00:00,8204,307
+Gigi Bohling,New Zealand,Raspberry Choco,2022-08-09 00:00:00,1127,176
+Gigi Bohling,New Zealand,Smooth Sliky Salty,2022-01-10 00:00:00,700,97
+Gigi Bohling,UK,50% Dark Bites,2022-07-18 00:00:00,8197,69
+Gigi Bohling,UK,70% Dark Bites,2022-06-21 00:00:00,840,81
+Gigi Bohling,UK,85% Dark Bars,2022-06-23 00:00:00,12362,94
+Gigi Bohling,UK,After Nines,2022-03-29 00:00:00,8029,175
+Gigi Bohling,UK,Almond Choco,2022-01-10 00:00:00,5642,9
+Gigi Bohling,UK,Baker's Choco Chips,2022-05-16 00:00:00,9023,409
+Gigi Bohling,UK,Drinking Coco,2022-06-30 00:00:00,5782,42
+Gigi Bohling,UK,Fruit & Nut Bars,2022-04-06 00:00:00,1232,86
+Gigi Bohling,UK,Milk Bars,2022-05-17 00:00:00,1365,232
+Gigi Bohling,USA,50% Dark Bites,2022-04-13 00:00:00,2296,59
+Gigi Bohling,USA,70% Dark Bites,2022-01-14 00:00:00,7364,196
+Gigi Bohling,USA,99% Dark & Pure,2022-06-02 00:00:00,784,249
+Gigi Bohling,USA,After Nines,2022-01-14 00:00:00,1848,227
+Gigi Bohling,USA,Choco Coated Almonds,2022-03-02 00:00:00,12313,103
+Gigi Bohling,USA,Fruit & Nut Bars,2022-05-24 00:00:00,2821,112
+Gigi Bohling,USA,Milk Bars,2022-06-16 00:00:00,476,133
+Gigi Bohling,USA,Peanut Butter Cubes,2022-05-09 00:00:00,280,75
+Gigi Bohling,USA,Smooth Sliky Salty,2022-07-22 00:00:00,2583,126
+Gigi Bohling,USA,Spicy Special Slims,2022-01-21 00:00:00,10829,54
+Gunar Cockshoot,Australia,50% Dark Bites,2022-03-02 00:00:00,12271,116
+Gunar Cockshoot,Australia,99% Dark & Pure,2022-08-18 00:00:00,7952,235
+Gunar Cockshoot,Australia,After Nines,2022-03-24 00:00:00,3080,73
+Gunar Cockshoot,Australia,Almond Choco,2022-01-25 00:00:00,3752,424
+Gunar Cockshoot,Australia,Drinking Coco,2022-01-14 00:00:00,2317,195
+Gunar Cockshoot,Australia,Fruit & Nut Bars,2022-06-15 00:00:00,6013,21
+Gunar Cockshoot,Australia,Raspberry Choco,2022-03-17 00:00:00,602,72
+Gunar Cockshoot,Canada,50% Dark Bites,2022-01-04 00:00:00,3024,23
+Gunar Cockshoot,Canada,After Nines,2022-08-04 00:00:00,2744,200
+Gunar Cockshoot,Canada,Almond Choco,2022-07-28 00:00:00,1309,30
+Gunar Cockshoot,Canada,Fruit & Nut Bars,2022-03-24 00:00:00,13888,203
+Gunar Cockshoot,Canada,Mint Chip Choco,2022-07-01 00:00:00,7756,410
+Gunar Cockshoot,Canada,Raspberry Choco,2022-06-23 00:00:00,2058,126
+Gunar Cockshoot,Canada,Spicy Special Slims,2022-04-05 00:00:00,13405,12
+Gunar Cockshoot,Canada,White Choc,2022-08-11 00:00:00,7560,15
+Gunar Cockshoot,India,50% Dark Bites,2022-08-09 00:00:00,12992,83
+Gunar Cockshoot,India,Baker's Choco Chips,2022-03-18 00:00:00,2191,524
+Gunar Cockshoot,India,Caramel Stuffed Bars,2022-07-28 00:00:00,2471,202
+Gunar Cockshoot,India,Mint Chip Choco,2022-08-08 00:00:00,4256,67
+Gunar Cockshoot,India,Organic Choco Syrup,2022-06-03 00:00:00,7196,160
+Gunar Cockshoot,India,Smooth Sliky Salty,2022-03-02 00:00:00,3752,70
+Gunar Cockshoot,India,Spicy Special Slims,2022-05-13 00:00:00,6510,170
+Gunar Cockshoot,New Zealand,After Nines,2022-08-09 00:00:00,7175,145
+Gunar Cockshoot,New Zealand,Almond Choco,2022-01-05 00:00:00,5173,129
+Gunar Cockshoot,New Zealand,Choco Coated Almonds,2022-08-01 00:00:00,13062,62
+Gunar Cockshoot,New Zealand,Fruit & Nut Bars,2022-06-10 00:00:00,9205,419
+Gunar Cockshoot,New Zealand,Raspberry Choco,2022-08-24 00:00:00,630,52
+Gunar Cockshoot,New Zealand,Spicy Special Slims,2022-06-28 00:00:00,6867,183
+Gunar Cockshoot,UK,50% Dark Bites,2022-01-13 00:00:00,2107,121
+Gunar Cockshoot,UK,99% Dark & Pure,2022-03-07 00:00:00,7,84
+Gunar Cockshoot,UK,Choco Coated Almonds,2022-06-30 00:00:00,5775,135
+Gunar Cockshoot,UK,Eclairs,2022-04-13 00:00:00,3619,164
+Gunar Cockshoot,UK,Manuka Honey Choco,2022-06-27 00:00:00,6762,46
+Gunar Cockshoot,UK,Raspberry Choco,2022-08-11 00:00:00,6811,344
+Gunar Cockshoot,UK,Smooth Sliky Salty,2022-03-22 00:00:00,749,148
+Gunar Cockshoot,UK,Spicy Special Slims,2022-02-16 00:00:00,12488,200
+Gunar Cockshoot,USA,85% Dark Bars,2022-06-30 00:00:00,7007,135
+Gunar Cockshoot,USA,After Nines,2022-08-15 00:00:00,3738,261
+Gunar Cockshoot,USA,Drinking Coco,2022-05-09 00:00:00,3843,5
+Gunar Cockshoot,USA,Eclairs,2022-05-03 00:00:00,6916,42
+Gunar Cockshoot,USA,Fruit & Nut Bars,2022-03-09 00:00:00,5852,93
+Gunar Cockshoot,USA,Organic Choco Syrup,2022-08-10 00:00:00,2331,321
+Gunar Cockshoot,USA,Spicy Special Slims,2022-02-17 00:00:00,1267,157
+Husein Augar,Australia,50% Dark Bites,2022-08-19 00:00:00,14889,52
+Husein Augar,Australia,99% Dark & Pure,2022-08-26 00:00:00,3087,128
+Husein Augar,Australia,Eclairs,2022-07-04 00:00:00,6993,31
+Husein Augar,Australia,Fruit & Nut Bars,2022-01-28 00:00:00,7959,53
+Husein Augar,Australia,Manuka Honey Choco,2022-03-15 00:00:00,7161,92
+Husein Augar,Australia,Orange Choco,2022-06-28 00:00:00,8897,188
+Husein Augar,Australia,Organic Choco Syrup,2022-02-08 00:00:00,938,158
+Husein Augar,Australia,White Choc,2022-05-11 00:00:00,3171,220
+Husein Augar,Canada,70% Dark Bites,2022-01-31 00:00:00,5131,285
+Husein Augar,Canada,After Nines,2022-01-19 00:00:00,9772,301
+Husein Augar,Canada,Choco Coated Almonds,2022-08-15 00:00:00,3381,408
+Husein Augar,Canada,Eclairs,2022-01-17 00:00:00,3696,233
+Husein Augar,India,70% Dark Bites,2022-05-09 00:00:00,6454,157
+Husein Augar,India,Eclairs,2022-02-09 00:00:00,4956,58
+Husein Augar,India,Fruit & Nut Bars,2022-04-04 00:00:00,4340,226
+Husein Augar,India,Orange Choco,2022-06-30 00:00:00,4361,40
+Husein Augar,India,Peanut Butter Cubes,2022-05-09 00:00:00,4522,5
+Husein Augar,India,Raspberry Choco,2022-06-15 00:00:00,9954,154
+Husein Augar,India,Spicy Special Slims,2022-08-22 00:00:00,2492,33
+Husein Augar,New Zealand,After Nines,2022-08-04 00:00:00,6433,7
+Husein Augar,New Zealand,Caramel Stuffed Bars,2022-01-27 00:00:00,497,475
+Husein Augar,New Zealand,Peanut Butter Cubes,2022-02-16 00:00:00,2058,236
+Husein Augar,UK,After Nines,2022-07-05 00:00:00,3507,380
+Husein Augar,UK,Almond Choco,2022-05-17 00:00:00,8309,166
+Husein Augar,UK,Baker's Choco Chips,2022-04-29 00:00:00,3038,135
+Husein Augar,UK,Caramel Stuffed Bars,2022-04-15 00:00:00,14938,433
+Husein Augar,UK,Choco Coated Almonds,2022-03-02 00:00:00,4333,43
+Husein Augar,UK,Drinking Coco,2022-03-14 00:00:00,3003,113
+Husein Augar,UK,Eclairs,2022-08-30 00:00:00,1750,252
+Husein Augar,UK,Spicy Special Slims,2022-08-25 00:00:00,4697,42
+Husein Augar,UK,White Choc,2022-01-13 00:00:00,10815,145
+Husein Augar,USA,85% Dark Bars,2022-08-08 00:00:00,378,54
+Husein Augar,USA,99% Dark & Pure,2022-02-21 00:00:00,9534,111
+Husein Augar,USA,After Nines,2022-04-08 00:00:00,11571,180
+Husein Augar,USA,Eclairs,2022-07-07 00:00:00,4025,112
+Husein Augar,USA,Fruit & Nut Bars,2022-04-28 00:00:00,1288,27
+Husein Augar,USA,Milk Bars,2022-03-02 00:00:00,854,56
+Husein Augar,USA,White Choc,2022-07-13 00:00:00,2030,60
+Jan Morforth,Australia,50% Dark Bites,2022-06-14 00:00:00,3402,182
+Jan Morforth,Australia,70% Dark Bites,2022-03-04 00:00:00,5222,384
+Jan Morforth,Australia,Drinking Coco,2022-02-18 00:00:00,2821,24
+Jan Morforth,Australia,Mint Chip Choco,2022-02-22 00:00:00,17626,103
+Jan Morforth,Australia,Orange Choco,2022-07-04 00:00:00,3199,122
+Jan Morforth,Australia,Peanut Butter Cubes,2022-04-27 00:00:00,12726,342
+Jan Morforth,Australia,White Choc,2022-07-27 00:00:00,3472,32
+Jan Morforth,Canada,70% Dark Bites,2022-02-14 00:00:00,5894,305
+Jan Morforth,Canada,After Nines,2022-07-13 00:00:00,4515,172
+Jan Morforth,Canada,Caramel Stuffed Bars,2022-08-02 00:00:00,9541,114
+Jan Morforth,Canada,Fruit & Nut Bars,2022-07-25 00:00:00,8904,199
+Jan Morforth,Canada,Mint Chip Choco,2022-04-01 00:00:00,1064,211
+Jan Morforth,India,85% Dark Bars,2022-05-25 00:00:00,4760,418
+Jan Morforth,India,99% Dark & Pure,2022-05-23 00:00:00,9100,187
+Jan Morforth,India,After Nines,2022-03-14 00:00:00,6496,168
+Jan Morforth,India,Almond Choco,2022-03-11 00:00:00,4466,22
+Jan Morforth,India,Baker's Choco Chips,2022-08-01 00:00:00,13727,79
+Jan Morforth,India,Caramel Stuffed Bars,2022-07-04 00:00:00,84,153
+Jan Morforth,India,Choco Coated Almonds,2022-08-12 00:00:00,2541,134
+Jan Morforth,India,Eclairs,2022-01-05 00:00:00,2541,27
+Jan Morforth,India,Fruit & Nut Bars,2022-05-04 00:00:00,2912,55
+Jan Morforth,India,Peanut Butter Cubes,2022-01-04 00:00:00,8092,178
+Jan Morforth,India,Smooth Sliky Salty,2022-08-03 00:00:00,11298,89
+Jan Morforth,India,Spicy Special Slims,2022-04-12 00:00:00,1939,520
+Jan Morforth,New Zealand,Manuka Honey Choco,2022-07-28 00:00:00,1589,271
+Jan Morforth,New Zealand,Mint Chip Choco,2022-06-30 00:00:00,18340,285
+Jan Morforth,New Zealand,Orange Choco,2022-02-11 00:00:00,1225,84
+Jan Morforth,New Zealand,Organic Choco Syrup,2022-03-02 00:00:00,1799,207
+Jan Morforth,UK,50% Dark Bites,2022-01-12 00:00:00,5250,293
+Jan Morforth,UK,Almond Choco,2022-07-06 00:00:00,9744,157
+Jan Morforth,UK,Baker's Choco Chips,2022-03-11 00:00:00,721,251
+Jan Morforth,UK,Caramel Stuffed Bars,2022-08-02 00:00:00,3094,468
+Jan Morforth,UK,Manuka Honey Choco,2022-08-18 00:00:00,3388,212
+Jan Morforth,UK,Orange Choco,2022-06-15 00:00:00,3780,201
+Jan Morforth,UK,Organic Choco Syrup,2022-04-12 00:00:00,1197,356
+Jan Morforth,UK,White Choc,2022-06-22 00:00:00,8799,47
+Jan Morforth,USA,Fruit & Nut Bars,2022-06-27 00:00:00,4382,361
+Jan Morforth,USA,Orange Choco,2022-06-29 00:00:00,980,146
+Jan Morforth,USA,Peanut Butter Cubes,2022-07-22 00:00:00,9037,102
+Jehu Rudeforth,Australia,50% Dark Bites,2022-01-14 00:00:00,5194,418
+Jehu Rudeforth,Australia,99% Dark & Pure,2022-02-25 00:00:00,10486,198
+Jehu Rudeforth,Australia,After Nines,2022-02-14 00:00:00,5250,47
+Jehu Rudeforth,Australia,Drinking Coco,2022-01-14 00:00:00,2611,65
+Jehu Rudeforth,Australia,Milk Bars,2022-03-18 00:00:00,8659,29
+Jehu Rudeforth,Australia,Orange Choco,2022-03-23 00:00:00,13706,26
+Jehu Rudeforth,Australia,Peanut Butter Cubes,2022-06-24 00:00:00,5691,38
+Jehu Rudeforth,Australia,Spicy Special Slims,2022-01-13 00:00:00,5012,384
+Jehu Rudeforth,Canada,Drinking Coco,2022-07-15 00:00:00,441,24
+Jehu Rudeforth,Canada,Manuka Honey Choco,2022-04-05 00:00:00,3584,200
+Jehu Rudeforth,Canada,Milk Bars,2022-02-21 00:00:00,7203,12
+Jehu Rudeforth,Canada,Orange Choco,2022-06-23 00:00:00,3857,512
+Jehu Rudeforth,Canada,Smooth Sliky Salty,2022-07-11 00:00:00,5460,138
+Jehu Rudeforth,Canada,Spicy Special Slims,2022-01-13 00:00:00,1848,27
+Jehu Rudeforth,Canada,White Choc,2022-01-25 00:00:00,4627,136
+Jehu Rudeforth,India,50% Dark Bites,2022-07-05 00:00:00,3472,135
+Jehu Rudeforth,India,99% Dark & Pure,2022-02-25 00:00:00,1953,242
+Jehu Rudeforth,India,Almond Choco,2022-08-30 00:00:00,10122,100
+Jehu Rudeforth,India,Baker's Choco Chips,2022-06-06 00:00:00,2086,74
+Jehu Rudeforth,India,Eclairs,2022-02-24 00:00:00,8771,127
+Jehu Rudeforth,India,Peanut Butter Cubes,2022-04-14 00:00:00,28,446
+Jehu Rudeforth,New Zealand,50% Dark Bites,2022-04-20 00:00:00,3990,59
+Jehu Rudeforth,New Zealand,85% Dark Bars,2022-03-11 00:00:00,6972,89
+Jehu Rudeforth,New Zealand,After Nines,2022-04-14 00:00:00,1512,73
+Jehu Rudeforth,New Zealand,Milk Bars,2022-05-18 00:00:00,2478,188
+Jehu Rudeforth,New Zealand,White Choc,2022-03-11 00:00:00,2800,241
+Jehu Rudeforth,UK,70% Dark Bites,2022-04-14 00:00:00,5565,258
+Jehu Rudeforth,UK,85% Dark Bars,2022-07-07 00:00:00,5502,64
+Jehu Rudeforth,UK,After Nines,2022-06-27 00:00:00,1946,164
+Jehu Rudeforth,UK,Baker's Choco Chips,2022-05-16 00:00:00,2485,97
+Jehu Rudeforth,UK,Choco Coated Almonds,2022-04-22 00:00:00,4270,185
+Jehu Rudeforth,UK,Drinking Coco,2022-02-03 00:00:00,7140,438
+Jehu Rudeforth,UK,Fruit & Nut Bars,2022-05-13 00:00:00,8589,229
+Jehu Rudeforth,UK,Milk Bars,2022-05-03 00:00:00,12068,227
+Jehu Rudeforth,UK,Mint Chip Choco,2022-01-04 00:00:00,5320,180
+Jehu Rudeforth,UK,Peanut Butter Cubes,2022-02-24 00:00:00,13685,184
+Jehu Rudeforth,UK,Smooth Sliky Salty,2022-08-24 00:00:00,1463,113
+Jehu Rudeforth,UK,White Choc,2022-06-29 00:00:00,1862,284
+Jehu Rudeforth,USA,99% Dark & Pure,2022-01-04 00:00:00,2534,219
+Jehu Rudeforth,USA,Orange Choco,2022-07-28 00:00:00,364,170
+Jehu Rudeforth,USA,Raspberry Choco,2022-03-04 00:00:00,7154,133
+Jehu Rudeforth,USA,Smooth Sliky Salty,2022-07-07 00:00:00,6657,154
+Jehu Rudeforth,USA,White Choc,2022-06-07 00:00:00,6559,119
+Kaine Padly,Australia,50% Dark Bites,2022-08-02 00:00:00,8995,78
+Kaine Padly,Australia,70% Dark Bites,2022-02-08 00:00:00,6706,223
+Kaine Padly,Australia,After Nines,2022-04-08 00:00:00,6832,306
+Kaine Padly,Australia,Almond Choco,2022-02-22 00:00:00,4102,392
+Kaine Padly,Australia,Eclairs,2022-02-28 00:00:00,7672,115
+Kaine Padly,Australia,Fruit & Nut Bars,2022-06-20 00:00:00,7434,85
+Kaine Padly,Australia,Manuka Honey Choco,2022-01-12 00:00:00,2765,264
+Kaine Padly,Australia,Milk Bars,2022-06-09 00:00:00,4046,89
+Kaine Padly,Australia,Mint Chip Choco,2022-05-17 00:00:00,4403,159
+Kaine Padly,Australia,Peanut Butter Cubes,2022-03-25 00:00:00,5460,286
+Kaine Padly,Canada,50% Dark Bites,2022-03-04 00:00:00,8687,100
+Kaine Padly,Canada,85% Dark Bars,2022-04-06 00:00:00,1729,31
+Kaine Padly,Canada,99% Dark & Pure,2022-06-24 00:00:00,1288,409
+Kaine Padly,Canada,After Nines,2022-08-22 00:00:00,5845,172
+Kaine Padly,Canada,Almond Choco,2022-08-12 00:00:00,6055,73
+Kaine Padly,Canada,Choco Coated Almonds,2022-05-18 00:00:00,3164,164
+Kaine Padly,Canada,Manuka Honey Choco,2022-01-18 00:00:00,10213,135
+Kaine Padly,Canada,Organic Choco Syrup,2022-03-29 00:00:00,5684,81
+Kaine Padly,Canada,Peanut Butter Cubes,2022-07-04 00:00:00,3269,176
+Kaine Padly,India,70% Dark Bites,2022-01-24 00:00:00,12173,301
+Kaine Padly,India,Milk Bars,2022-05-02 00:00:00,2905,91
+Kaine Padly,India,Spicy Special Slims,2022-08-31 00:00:00,5614,137
+Kaine Padly,New Zealand,70% Dark Bites,2022-03-24 00:00:00,7231,38
+Kaine Padly,New Zealand,Eclairs,2022-01-20 00:00:00,12894,48
+Kaine Padly,New Zealand,Smooth Sliky Salty,2022-04-12 00:00:00,7,518
+Kaine Padly,New Zealand,Spicy Special Slims,2022-07-01 00:00:00,7728,37
+Kaine Padly,UK,50% Dark Bites,2022-02-21 00:00:00,3143,67
+Kaine Padly,UK,After Nines,2022-01-21 00:00:00,18697,176
+Kaine Padly,UK,Caramel Stuffed Bars,2022-05-20 00:00:00,10192,67
+Kaine Padly,UK,Choco Coated Almonds,2022-08-03 00:00:00,8022,123
+Kaine Padly,UK,Drinking Coco,2022-01-27 00:00:00,2317,224
+Kaine Padly,UK,Manuka Honey Choco,2022-01-14 00:00:00,7133,118
+Kaine Padly,UK,Orange Choco,2022-06-29 00:00:00,1960,191
+Kaine Padly,UK,Organic Choco Syrup,2022-03-31 00:00:00,2282,178
+Kaine Padly,UK,Peanut Butter Cubes,2022-05-11 00:00:00,6272,86
+Kaine Padly,UK,Smooth Sliky Salty,2022-06-08 00:00:00,9016,554
+Kaine Padly,USA,50% Dark Bites,2022-08-03 00:00:00,70,27
+Kaine Padly,USA,70% Dark Bites,2022-05-12 00:00:00,4018,100
+Kaine Padly,USA,85% Dark Bars,2022-06-22 00:00:00,483,259
+Kaine Padly,USA,Caramel Stuffed Bars,2022-07-21 00:00:00,5593,122
+Kaine Padly,USA,Eclairs,2022-08-22 00:00:00,7623,10
+Kaine Padly,USA,Milk Bars,2022-06-15 00:00:00,15491,58
+Kaine Padly,USA,Organic Choco Syrup,2022-03-11 00:00:00,2380,22
+Kaine Padly,USA,Peanut Butter Cubes,2022-02-16 00:00:00,6790,188
+Kaine Padly,USA,Spicy Special Slims,2022-06-13 00:00:00,2107,175
+Karlen McCaffrey,Australia,50% Dark Bites,2022-01-17 00:00:00,6678,708
+Karlen McCaffrey,Australia,70% Dark Bites,2022-06-24 00:00:00,238,317
+Karlen McCaffrey,Australia,99% Dark & Pure,2022-01-26 00:00:00,10822,168
+Karlen McCaffrey,Australia,After Nines,2022-08-11 00:00:00,2303,67
+Karlen McCaffrey,Australia,Almond Choco,2022-07-08 00:00:00,7294,128
+Karlen McCaffrey,Australia,Raspberry Choco,2022-08-23 00:00:00,994,57
+Karlen McCaffrey,Australia,Spicy Special Slims,2022-05-17 00:00:00,4410,323
+Karlen McCaffrey,Australia,White Choc,2022-01-05 00:00:00,7357,48
+Karlen McCaffrey,Canada,50% Dark Bites,2022-07-15 00:00:00,2919,65
+Karlen McCaffrey,Canada,70% Dark Bites,2022-06-24 00:00:00,7714,597
+Karlen McCaffrey,Canada,Caramel Stuffed Bars,2022-03-02 00:00:00,3346,304
+Karlen McCaffrey,Canada,Eclairs,2022-04-20 00:00:00,3479,358
+Karlen McCaffrey,Canada,Fruit & Nut Bars,2022-06-02 00:00:00,210,16
+Karlen McCaffrey,Canada,Organic Choco Syrup,2022-07-15 00:00:00,2415,312
+Karlen McCaffrey,Canada,Peanut Butter Cubes,2022-08-12 00:00:00,3094,159
+Karlen McCaffrey,Canada,Raspberry Choco,2022-05-09 00:00:00,651,224
+Karlen McCaffrey,Canada,Smooth Sliky Salty,2022-01-19 00:00:00,3017,184
+Karlen McCaffrey,Canada,Spicy Special Slims,2022-08-02 00:00:00,6328,47
+Karlen McCaffrey,India,70% Dark Bites,2022-05-23 00:00:00,5075,344
+Karlen McCaffrey,India,85% Dark Bars,2022-03-30 00:00:00,945,83
+Karlen McCaffrey,India,Almond Choco,2022-07-06 00:00:00,6090,149
+Karlen McCaffrey,India,Drinking Coco,2022-05-31 00:00:00,4795,233
+Karlen McCaffrey,India,Fruit & Nut Bars,2022-01-26 00:00:00,168,321
+Karlen McCaffrey,India,Manuka Honey Choco,2022-07-04 00:00:00,2443,581
+Karlen McCaffrey,India,Mint Chip Choco,2022-07-15 00:00:00,10990,184
+Karlen McCaffrey,India,Orange Choco,2022-06-27 00:00:00,3122,149
+Karlen McCaffrey,India,White Choc,2022-01-17 00:00:00,7483,232
+Karlen McCaffrey,New Zealand,70% Dark Bites,2022-08-02 00:00:00,126,40
+Karlen McCaffrey,New Zealand,85% Dark Bars,2022-06-28 00:00:00,6069,55
+Karlen McCaffrey,New Zealand,Baker's Choco Chips,2022-04-05 00:00:00,5012,189
+Karlen McCaffrey,New Zealand,Caramel Stuffed Bars,2022-01-31 00:00:00,5334,227
+Karlen McCaffrey,New Zealand,Drinking Coco,2022-07-28 00:00:00,168,156
+Karlen McCaffrey,New Zealand,Eclairs,2022-05-06 00:00:00,2597,177
+Karlen McCaffrey,New Zealand,Fruit & Nut Bars,2022-02-07 00:00:00,1218,135
+Karlen McCaffrey,New Zealand,Mint Chip Choco,2022-03-02 00:00:00,4326,61
+Karlen McCaffrey,UK,50% Dark Bites,2022-04-06 00:00:00,3647,310
+Karlen McCaffrey,UK,Almond Choco,2022-06-30 00:00:00,6839,133
+Karlen McCaffrey,UK,Baker's Choco Chips,2022-02-07 00:00:00,4753,389
+Karlen McCaffrey,UK,Eclairs,2022-01-25 00:00:00,7798,196
+Karlen McCaffrey,USA,Drinking Coco,2022-06-29 00:00:00,112,223
+Karlen McCaffrey,USA,Eclairs,2022-08-15 00:00:00,868,125
+Karlen McCaffrey,USA,Manuka Honey Choco,2022-02-01 00:00:00,10171,67
+Karlen McCaffrey,USA,Milk Bars,2022-01-27 00:00:00,4389,7
+Karlen McCaffrey,USA,Mint Chip Choco,2022-02-15 00:00:00,15652,53
+Karlen McCaffrey,USA,Orange Choco,2022-05-12 00:00:00,11095,401
+Karlen McCaffrey,USA,Raspberry Choco,2022-04-15 00:00:00,14749,354
+Karlen McCaffrey,USA,White Choc,2022-08-24 00:00:00,4592,2
+Kelci Walkden,Australia,99% Dark & Pure,2022-06-30 00:00:00,3185,34
+Kelci Walkden,Australia,After Nines,2022-03-02 00:00:00,6916,288
+Kelci Walkden,Australia,Almond Choco,2022-05-30 00:00:00,4879,350
+Kelci Walkden,Australia,Drinking Coco,2022-05-04 00:00:00,1288,60
+Kelci Walkden,Australia,Eclairs,2022-03-23 00:00:00,7273,547
+Kelci Walkden,Australia,Milk Bars,2022-02-24 00:00:00,7910,125
+Kelci Walkden,Australia,Orange Choco,2022-04-29 00:00:00,11116,432
+Kelci Walkden,Australia,Raspberry Choco,2022-06-07 00:00:00,679,56
+Kelci Walkden,Australia,White Choc,2022-08-24 00:00:00,8715,168
+Kelci Walkden,Canada,99% Dark & Pure,2022-08-15 00:00:00,4830,50
+Kelci Walkden,Canada,After Nines,2022-01-13 00:00:00,16702,198
+Kelci Walkden,Canada,Baker's Choco Chips,2022-05-26 00:00:00,3073,302
+Kelci Walkden,Canada,Fruit & Nut Bars,2022-06-20 00:00:00,826,149
+Kelci Walkden,Canada,Milk Bars,2022-07-07 00:00:00,16016,28
+Kelci Walkden,Canada,Peanut Butter Cubes,2022-04-08 00:00:00,7532,44
+Kelci Walkden,Canada,Smooth Sliky Salty,2022-03-17 00:00:00,8099,118
+Kelci Walkden,India,70% Dark Bites,2022-06-06 00:00:00,3640,106
+Kelci Walkden,India,99% Dark & Pure,2022-06-28 00:00:00,2303,244
+Kelci Walkden,India,After Nines,2022-01-07 00:00:00,1687,520
+Kelci Walkden,India,Almond Choco,2022-03-14 00:00:00,3297,149
+Kelci Walkden,India,Caramel Stuffed Bars,2022-03-16 00:00:00,476,125
+Kelci Walkden,India,Drinking Coco,2022-07-04 00:00:00,7532,234
+Kelci Walkden,India,Eclairs,2022-04-19 00:00:00,5334,80
+Kelci Walkden,India,Milk Bars,2022-04-15 00:00:00,966,107
+Kelci Walkden,India,Mint Chip Choco,2022-07-28 00:00:00,2870,120
+Kelci Walkden,India,Orange Choco,2022-06-07 00:00:00,9408,138
+Kelci Walkden,India,Raspberry Choco,2022-06-16 00:00:00,8183,254
+Kelci Walkden,India,Smooth Sliky Salty,2022-02-01 00:00:00,2464,8
+Kelci Walkden,New Zealand,After Nines,2022-07-07 00:00:00,147,72
+Kelci Walkden,New Zealand,Baker's Choco Chips,2022-06-23 00:00:00,2912,110
+Kelci Walkden,New Zealand,Drinking Coco,2022-03-10 00:00:00,15855,111
+Kelci Walkden,New Zealand,Manuka Honey Choco,2022-04-08 00:00:00,1358,106
+Kelci Walkden,New Zealand,Smooth Sliky Salty,2022-03-11 00:00:00,10633,277
+Kelci Walkden,New Zealand,Spicy Special Slims,2022-08-11 00:00:00,658,65
+Kelci Walkden,New Zealand,White Choc,2022-04-13 00:00:00,7609,150
+Kelci Walkden,UK,85% Dark Bars,2022-06-23 00:00:00,3997,228
+Kelci Walkden,UK,99% Dark & Pure,2022-08-12 00:00:00,3507,114
+Kelci Walkden,UK,Choco Coated Almonds,2022-05-24 00:00:00,9506,212
+Kelci Walkden,UK,Drinking Coco,2022-04-20 00:00:00,1792,23
+Kelci Walkden,UK,Eclairs,2022-01-25 00:00:00,4606,57
+Kelci Walkden,UK,Fruit & Nut Bars,2022-06-29 00:00:00,13006,482
+Kelci Walkden,UK,Orange Choco,2022-08-01 00:00:00,3640,3
+Kelci Walkden,UK,Smooth Sliky Salty,2022-01-19 00:00:00,5929,175
+Kelci Walkden,USA,50% Dark Bites,2022-03-23 00:00:00,6188,223
+Kelci Walkden,USA,99% Dark & Pure,2022-08-18 00:00:00,7714,238
+Kelci Walkden,USA,After Nines,2022-06-02 00:00:00,938,16
+Kelci Walkden,USA,Almond Choco,2022-01-27 00:00:00,5180,233
+Kelci Walkden,USA,Drinking Coco,2022-07-26 00:00:00,6454,160
+Kelci Walkden,USA,Fruit & Nut Bars,2022-02-17 00:00:00,4816,145
+Kelci Walkden,USA,Manuka Honey Choco,2022-02-16 00:00:00,17318,87
+Kelci Walkden,USA,Orange Choco,2022-02-03 00:00:00,1379,138
+Kelci Walkden,USA,Organic Choco Syrup,2022-07-21 00:00:00,9870,152
+Kelci Walkden,USA,Spicy Special Slims,2022-04-29 00:00:00,77,69
+Kelci Walkden,USA,White Choc,2022-03-07 00:00:00,9422,22
+Madelene Upcott,Australia,50% Dark Bites,2022-07-25 00:00:00,7350,6
+Madelene Upcott,Australia,70% Dark Bites,2022-04-15 00:00:00,3710,260
+Madelene Upcott,Australia,85% Dark Bars,2022-06-16 00:00:00,1575,329
+Madelene Upcott,Australia,99% Dark & Pure,2022-08-01 00:00:00,4326,154
+Madelene Upcott,Australia,Choco Coated Almonds,2022-04-08 00:00:00,2058,72
+Madelene Upcott,Australia,Fruit & Nut Bars,2022-01-05 00:00:00,5579,92
+Madelene Upcott,Australia,Mint Chip Choco,2022-05-02 00:00:00,2751,153
+Madelene Upcott,Australia,Orange Choco,2022-04-15 00:00:00,6713,398
+Madelene Upcott,Australia,Organic Choco Syrup,2022-07-05 00:00:00,10794,50
+Madelene Upcott,Australia,Raspberry Choco,2022-07-13 00:00:00,6321,88
+Madelene Upcott,Australia,Spicy Special Slims,2022-03-07 00:00:00,7182,408
+Madelene Upcott,Canada,70% Dark Bites,2022-01-24 00:00:00,10927,141
+Madelene Upcott,Canada,85% Dark Bars,2022-02-17 00:00:00,7504,101
+Madelene Upcott,Canada,Almond Choco,2022-08-22 00:00:00,7602,102
+Madelene Upcott,Canada,Choco Coated Almonds,2022-07-20 00:00:00,3458,294
+Madelene Upcott,Canada,Milk Bars,2022-04-26 00:00:00,3612,82
+Madelene Upcott,Canada,Peanut Butter Cubes,2022-07-05 00:00:00,14763,113
+Madelene Upcott,India,Choco Coated Almonds,2022-02-11 00:00:00,3500,145
+Madelene Upcott,India,Mint Chip Choco,2022-08-24 00:00:00,3836,71
+Madelene Upcott,India,Organic Choco Syrup,2022-01-26 00:00:00,4781,38
+Madelene Upcott,India,Raspberry Choco,2022-07-07 00:00:00,4221,9
+Madelene Upcott,New Zealand,70% Dark Bites,2022-02-22 00:00:00,13356,93
+Madelene Upcott,New Zealand,Caramel Stuffed Bars,2022-02-01 00:00:00,3374,151
+Madelene Upcott,New Zealand,Fruit & Nut Bars,2022-01-18 00:00:00,5677,21
+Madelene Upcott,New Zealand,Milk Bars,2022-03-29 00:00:00,12558,403
+Madelene Upcott,New Zealand,Mint Chip Choco,2022-03-11 00:00:00,7413,4
+Madelene Upcott,New Zealand,Peanut Butter Cubes,2022-01-28 00:00:00,5152,333
+Madelene Upcott,New Zealand,Raspberry Choco,2022-05-18 00:00:00,9226,415
+Madelene Upcott,New Zealand,White Choc,2022-08-22 00:00:00,10794,51
+Madelene Upcott,UK,70% Dark Bites,2022-02-16 00:00:00,5397,239
+Madelene Upcott,UK,99% Dark & Pure,2022-01-26 00:00:00,10479,45
+Madelene Upcott,UK,Caramel Stuffed Bars,2022-04-15 00:00:00,161,145
+Madelene Upcott,UK,Choco Coated Almonds,2022-05-24 00:00:00,10164,134
+Madelene Upcott,UK,Fruit & Nut Bars,2022-01-05 00:00:00,8512,189
+Madelene Upcott,UK,Organic Choco Syrup,2022-07-21 00:00:00,6965,163
+Madelene Upcott,UK,Peanut Butter Cubes,2022-08-12 00:00:00,7756,85
+Madelene Upcott,UK,Raspberry Choco,2022-08-26 00:00:00,7357,341
+Madelene Upcott,UK,Smooth Sliky Salty,2022-03-04 00:00:00,14539,84
+Madelene Upcott,USA,After Nines,2022-03-15 00:00:00,4571,430
+Madelene Upcott,USA,Almond Choco,2022-05-31 00:00:00,10143,24
+Madelene Upcott,USA,Baker's Choco Chips,2022-08-22 00:00:00,5621,140
+Madelene Upcott,USA,Choco Coated Almonds,2022-06-07 00:00:00,5446,132
+Madelene Upcott,USA,Eclairs,2022-03-18 00:00:00,8883,200
+Madelene Upcott,USA,Orange Choco,2022-05-16 00:00:00,7742,138
+Madelene Upcott,USA,White Choc,2022-05-04 00:00:00,12250,213
+Mallorie Waber,Australia,85% Dark Bars,2022-08-26 00:00:00,2541,53
+Mallorie Waber,Australia,Almond Choco,2022-08-01 00:00:00,7882,125
+Mallorie Waber,Australia,Choco Coated Almonds,2022-03-18 00:00:00,15750,92
+Mallorie Waber,Australia,Eclairs,2022-08-22 00:00:00,9527,222
+Mallorie Waber,Australia,Milk Bars,2022-07-29 00:00:00,2779,104
+Mallorie Waber,Australia,Orange Choco,2022-03-07 00:00:00,14658,275
+Mallorie Waber,Australia,Raspberry Choco,2022-04-25 00:00:00,8400,27
+Mallorie Waber,Australia,Smooth Sliky Salty,2022-02-11 00:00:00,4158,109
+Mallorie Waber,Australia,Spicy Special Slims,2022-06-29 00:00:00,5439,287
+Mallorie Waber,Canada,85% Dark Bars,2022-04-20 00:00:00,1428,424
+Mallorie Waber,Canada,Almond Choco,2022-05-12 00:00:00,4214,35
+Mallorie Waber,Canada,Caramel Stuffed Bars,2022-06-10 00:00:00,4844,539
+Mallorie Waber,Canada,Choco Coated Almonds,2022-07-11 00:00:00,4781,241
+Mallorie Waber,Canada,Eclairs,2022-01-13 00:00:00,1442,286
+Mallorie Waber,Canada,Manuka Honey Choco,2022-03-07 00:00:00,1435,112
+Mallorie Waber,Canada,Orange Choco,2022-03-23 00:00:00,3577,178
+Mallorie Waber,Canada,Smooth Sliky Salty,2022-03-21 00:00:00,1939,98
+Mallorie Waber,Canada,White Choc,2022-03-03 00:00:00,3381,72
+Mallorie Waber,India,50% Dark Bites,2022-05-31 00:00:00,588,139
+Mallorie Waber,India,Drinking Coco,2022-03-07 00:00:00,3948,142
+Mallorie Waber,India,Eclairs,2022-04-12 00:00:00,10437,46
+Mallorie Waber,India,Raspberry Choco,2022-03-02 00:00:00,1400,2
+Mallorie Waber,India,White Choc,2022-07-26 00:00:00,819,213
+Mallorie Waber,New Zealand,85% Dark Bars,2022-06-06 00:00:00,7714,106
+Mallorie Waber,New Zealand,After Nines,2022-05-04 00:00:00,483,228
+Mallorie Waber,New Zealand,Manuka Honey Choco,2022-04-13 00:00:00,9436,11
+Mallorie Waber,New Zealand,Mint Chip Choco,2022-01-31 00:00:00,1316,107
+Mallorie Waber,New Zealand,Orange Choco,2022-02-01 00:00:00,6510,23
+Mallorie Waber,New Zealand,Organic Choco Syrup,2022-07-01 00:00:00,5075,256
+Mallorie Waber,New Zealand,White Choc,2022-02-25 00:00:00,3171,246
+Mallorie Waber,UK,50% Dark Bites,2022-02-21 00:00:00,5502,99
+Mallorie Waber,UK,Drinking Coco,2022-05-27 00:00:00,3423,100
+Mallorie Waber,UK,Manuka Honey Choco,2022-06-15 00:00:00,8379,43
+Mallorie Waber,UK,Milk Bars,2022-01-10 00:00:00,3563,284
+Mallorie Waber,UK,Mint Chip Choco,2022-06-29 00:00:00,6384,2
+Mallorie Waber,USA,50% Dark Bites,2022-04-19 00:00:00,1736,13
+Mallorie Waber,USA,85% Dark Bars,2022-05-11 00:00:00,2632,108
+Mallorie Waber,USA,Almond Choco,2022-01-28 00:00:00,6986,368
+Mallorie Waber,USA,Eclairs,2022-03-22 00:00:00,6328,51
+Mallorie Waber,USA,Manuka Honey Choco,2022-07-04 00:00:00,5425,96
+Mallorie Waber,USA,Peanut Butter Cubes,2022-05-23 00:00:00,1162,18
+Marney O'Breen,Australia,Baker's Choco Chips,2022-01-13 00:00:00,5810,101
+Marney O'Breen,Australia,Choco Coated Almonds,2022-07-27 00:00:00,11298,41
+Marney O'Breen,Australia,Manuka Honey Choco,2022-04-05 00:00:00,13076,236
+Marney O'Breen,Australia,Milk Bars,2022-07-28 00:00:00,2464,387
+Marney O'Breen,Australia,Organic Choco Syrup,2022-05-16 00:00:00,273,174
+Marney O'Breen,Australia,Smooth Sliky Salty,2022-01-03 00:00:00,3745,170
+Marney O'Breen,Australia,Spicy Special Slims,2022-06-23 00:00:00,13125,275
+Marney O'Breen,Canada,Caramel Stuffed Bars,2022-02-23 00:00:00,1372,614
+Marney O'Breen,Canada,Choco Coated Almonds,2022-08-22 00:00:00,2639,406
+Marney O'Breen,Canada,Milk Bars,2022-02-08 00:00:00,2436,309
+Marney O'Breen,Canada,Orange Choco,2022-01-14 00:00:00,2723,425
+Marney O'Breen,Canada,Peanut Butter Cubes,2022-03-08 00:00:00,6594,91
+Marney O'Breen,Canada,Spicy Special Slims,2022-01-03 00:00:00,3528,336
+Marney O'Breen,India,85% Dark Bars,2022-07-19 00:00:00,2205,179
+Marney O'Breen,India,99% Dark & Pure,2022-07-22 00:00:00,10766,157
+Marney O'Breen,India,After Nines,2022-07-11 00:00:00,2639,179
+Marney O'Breen,India,Caramel Stuffed Bars,2022-03-16 00:00:00,4361,81
+Marney O'Breen,India,Eclairs,2022-01-13 00:00:00,3472,96
+Marney O'Breen,India,Fruit & Nut Bars,2022-04-13 00:00:00,4753,151
+Marney O'Breen,India,Peanut Butter Cubes,2022-01-10 00:00:00,6489,146
+Marney O'Breen,New Zealand,70% Dark Bites,2022-02-14 00:00:00,8603,352
+Marney O'Breen,New Zealand,85% Dark Bars,2022-05-30 00:00:00,1218,149
+Marney O'Breen,New Zealand,After Nines,2022-03-09 00:00:00,1561,44
+Marney O'Breen,New Zealand,Eclairs,2022-01-18 00:00:00,4914,31
+Marney O'Breen,New Zealand,Fruit & Nut Bars,2022-08-25 00:00:00,8939,4
+Marney O'Breen,New Zealand,Milk Bars,2022-01-14 00:00:00,7490,315
+Marney O'Breen,New Zealand,Organic Choco Syrup,2022-07-08 00:00:00,8624,50
+Marney O'Breen,New Zealand,Peanut Butter Cubes,2022-08-03 00:00:00,8379,173
+Marney O'Breen,New Zealand,Smooth Sliky Salty,2022-06-14 00:00:00,8484,57
+Marney O'Breen,UK,50% Dark Bites,2022-06-14 00:00:00,2989,124
+Marney O'Breen,UK,99% Dark & Pure,2022-01-13 00:00:00,8113,194
+Marney O'Breen,UK,Baker's Choco Chips,2022-06-10 00:00:00,252,154
+Marney O'Breen,UK,Caramel Stuffed Bars,2022-07-19 00:00:00,3549,112
+Marney O'Breen,UK,Drinking Coco,2022-03-29 00:00:00,973,28
+Marney O'Breen,UK,Manuka Honey Choco,2022-06-10 00:00:00,10983,179
+Marney O'Breen,UK,Orange Choco,2022-06-06 00:00:00,11319,12
+Marney O'Breen,UK,Smooth Sliky Salty,2022-05-13 00:00:00,18991,88
+Marney O'Breen,USA,50% Dark Bites,2022-06-15 00:00:00,1064,106
+Marney O'Breen,USA,99% Dark & Pure,2022-03-28 00:00:00,4151,296
+Marney O'Breen,USA,After Nines,2022-05-30 00:00:00,4753,163
+Marney O'Breen,USA,Almond Choco,2022-02-25 00:00:00,7798,167
+Marney O'Breen,USA,Baker's Choco Chips,2022-01-26 00:00:00,8470,9
+Marney O'Breen,USA,Orange Choco,2022-01-27 00:00:00,7595,181
+Marney O'Breen,USA,Peanut Butter Cubes,2022-06-15 00:00:00,693,350
+Marney O'Breen,USA,Raspberry Choco,2022-05-23 00:00:00,6069,151
+Oby Sorrel,Australia,50% Dark Bites,2022-05-06 00:00:00,721,151
+Oby Sorrel,Australia,85% Dark Bars,2022-06-30 00:00:00,6944,27
+Oby Sorrel,Australia,Almond Choco,2022-02-15 00:00:00,6034,223
+Oby Sorrel,Australia,Manuka Honey Choco,2022-01-26 00:00:00,3906,76
+Oby Sorrel,Australia,Milk Bars,2022-06-21 00:00:00,7672,254
+Oby Sorrel,Australia,Raspberry Choco,2022-02-17 00:00:00,1043,120
+Oby Sorrel,Australia,Spicy Special Slims,2022-04-26 00:00:00,11389,26
+Oby Sorrel,Canada,50% Dark Bites,2022-06-24 00:00:00,6615,137
+Oby Sorrel,Canada,99% Dark & Pure,2022-08-01 00:00:00,3605,403
+Oby Sorrel,Canada,Eclairs,2022-05-19 00:00:00,6111,591
+Oby Sorrel,Canada,Fruit & Nut Bars,2022-01-14 00:00:00,1869,158
+Oby Sorrel,Canada,Orange Choco,2022-04-27 00:00:00,8757,338
+Oby Sorrel,Canada,Organic Choco Syrup,2022-07-05 00:00:00,1232,74
+Oby Sorrel,Canada,Peanut Butter Cubes,2022-06-07 00:00:00,12425,167
+Oby Sorrel,Canada,Raspberry Choco,2022-06-16 00:00:00,1750,208
+Oby Sorrel,India,85% Dark Bars,2022-07-05 00:00:00,8981,130
+Oby Sorrel,India,99% Dark & Pure,2022-05-27 00:00:00,10255,11
+Oby Sorrel,India,Choco Coated Almonds,2022-02-14 00:00:00,49,363
+Oby Sorrel,India,Drinking Coco,2022-07-21 00:00:00,16380,130
+Oby Sorrel,India,Eclairs,2022-08-25 00:00:00,5663,322
+Oby Sorrel,India,Organic Choco Syrup,2022-07-08 00:00:00,6181,56
+Oby Sorrel,India,Raspberry Choco,2022-04-14 00:00:00,6832,46
+Oby Sorrel,India,Smooth Sliky Salty,2022-02-07 00:00:00,10101,108
+Oby Sorrel,India,Spicy Special Slims,2022-06-08 00:00:00,11137,88
+Oby Sorrel,New Zealand,85% Dark Bars,2022-02-01 00:00:00,3381,417
+Oby Sorrel,New Zealand,Baker's Choco Chips,2022-04-25 00:00:00,11823,47
+Oby Sorrel,New Zealand,Milk Bars,2022-01-12 00:00:00,4494,187
+Oby Sorrel,New Zealand,Organic Choco Syrup,2022-02-17 00:00:00,15316,270
+Oby Sorrel,New Zealand,Raspberry Choco,2022-05-13 00:00:00,4550,281
+Oby Sorrel,New Zealand,Smooth Sliky Salty,2022-07-07 00:00:00,8673,60
+Oby Sorrel,New Zealand,Spicy Special Slims,2022-06-03 00:00:00,1617,13
+Oby Sorrel,New Zealand,White Choc,2022-06-10 00:00:00,4361,40
+Oby Sorrel,UK,70% Dark Bites,2022-03-16 00:00:00,6223,181
+Oby Sorrel,UK,99% Dark & Pure,2022-01-25 00:00:00,13685,176
+Oby Sorrel,UK,After Nines,2022-07-18 00:00:00,2345,104
+Oby Sorrel,UK,Choco Coated Almonds,2022-03-17 00:00:00,9324,41
+Oby Sorrel,UK,Milk Bars,2022-07-11 00:00:00,6468,223
+Oby Sorrel,UK,Orange Choco,2022-04-15 00:00:00,7315,237
+Oby Sorrel,UK,Organic Choco Syrup,2022-06-30 00:00:00,7980,157
+Oby Sorrel,UK,Raspberry Choco,2022-04-08 00:00:00,4599,323
+Oby Sorrel,UK,Smooth Sliky Salty,2022-05-31 00:00:00,9625,313
+Oby Sorrel,UK,White Choc,2022-06-27 00:00:00,1715,286
+Oby Sorrel,USA,Almond Choco,2022-05-19 00:00:00,6440,141
+Oby Sorrel,USA,Baker's Choco Chips,2022-08-12 00:00:00,8001,120
+Oby Sorrel,USA,Drinking Coco,2022-03-11 00:00:00,7714,44
+Oby Sorrel,USA,Manuka Honey Choco,2022-07-25 00:00:00,4340,86
+Oby Sorrel,USA,Milk Bars,2022-06-14 00:00:00,1736,79
+Oby Sorrel,USA,Smooth Sliky Salty,2022-03-04 00:00:00,3577,158
+Oby Sorrel,USA,Spicy Special Slims,2022-02-07 00:00:00,5691,417
+Rafaelita Blaksland,Australia,50% Dark Bites,2022-03-22 00:00:00,3010,40
+Rafaelita Blaksland,Australia,Baker's Choco Chips,2022-08-22 00:00:00,2786,51
+Rafaelita Blaksland,Australia,Drinking Coco,2022-02-21 00:00:00,11550,396
+Rafaelita Blaksland,Australia,Manuka Honey Choco,2022-08-03 00:00:00,4396,131
+Rafaelita Blaksland,Australia,Organic Choco Syrup,2022-01-26 00:00:00,994,105
+Rafaelita Blaksland,Australia,Raspberry Choco,2022-01-19 00:00:00,6916,259
+Rafaelita Blaksland,Australia,Smooth Sliky Salty,2022-05-30 00:00:00,3969,243
+Rafaelita Blaksland,Australia,White Choc,2022-03-21 00:00:00,6818,102
+Rafaelita Blaksland,Canada,99% Dark & Pure,2022-03-02 00:00:00,5096,142
+Rafaelita Blaksland,Canada,Caramel Stuffed Bars,2022-08-01 00:00:00,7119,101
+Rafaelita Blaksland,Canada,Drinking Coco,2022-07-12 00:00:00,9884,200
+Rafaelita Blaksland,Canada,Fruit & Nut Bars,2022-08-24 00:00:00,483,185
+Rafaelita Blaksland,Canada,Spicy Special Slims,2022-05-02 00:00:00,2520,156
+Rafaelita Blaksland,India,After Nines,2022-03-02 00:00:00,4739,204
+Rafaelita Blaksland,India,Almond Choco,2022-07-27 00:00:00,3395,99
+Rafaelita Blaksland,India,Mint Chip Choco,2022-01-26 00:00:00,15491,85
+Rafaelita Blaksland,India,Smooth Sliky Salty,2022-05-06 00:00:00,1638,81
+Rafaelita Blaksland,India,Spicy Special Slims,2022-01-04 00:00:00,8064,134
+Rafaelita Blaksland,New Zealand,70% Dark Bites,2022-08-24 00:00:00,679,280
+Rafaelita Blaksland,New Zealand,99% Dark & Pure,2022-03-25 00:00:00,3164,84
+Rafaelita Blaksland,New Zealand,After Nines,2022-07-07 00:00:00,1099,92
+Rafaelita Blaksland,New Zealand,Caramel Stuffed Bars,2022-05-20 00:00:00,13083,14
+Rafaelita Blaksland,New Zealand,Choco Coated Almonds,2022-06-07 00:00:00,2093,45
+Rafaelita Blaksland,New Zealand,Eclairs,2022-02-07 00:00:00,19481,51
+Rafaelita Blaksland,UK,50% Dark Bites,2022-02-16 00:00:00,10150,68
+Rafaelita Blaksland,UK,99% Dark & Pure,2022-06-29 00:00:00,12446,150
+Rafaelita Blaksland,UK,Eclairs,2022-04-27 00:00:00,1379,70
+Rafaelita Blaksland,UK,Smooth Sliky Salty,2022-01-13 00:00:00,4704,62
+Rafaelita Blaksland,UK,Spicy Special Slims,2022-08-03 00:00:00,9345,133
+Rafaelita Blaksland,USA,Baker's Choco Chips,2022-06-09 00:00:00,2863,58
+Rafaelita Blaksland,USA,Drinking Coco,2022-06-20 00:00:00,8526,73
+Rafaelita Blaksland,USA,Fruit & Nut Bars,2022-01-18 00:00:00,2604,65
+Rafaelita Blaksland,USA,Smooth Sliky Salty,2022-07-27 00:00:00,15057,212
+Rafaelita Blaksland,USA,White Choc,2022-08-16 00:00:00,4704,126
+Roddy Speechley,Australia,85% Dark Bars,2022-07-08 00:00:00,4200,80
+Roddy Speechley,Australia,Almond Choco,2022-06-24 00:00:00,4466,74
+Roddy Speechley,Australia,Drinking Coco,2022-05-12 00:00:00,12565,102
+Roddy Speechley,Australia,Mint Chip Choco,2022-05-05 00:00:00,6797,252
+Roddy Speechley,Australia,Organic Choco Syrup,2022-07-04 00:00:00,3647,76
+Roddy Speechley,Canada,Choco Coated Almonds,2022-05-11 00:00:00,5873,249
+Roddy Speechley,Canada,Drinking Coco,2022-05-17 00:00:00,6776,312
+Roddy Speechley,Canada,Eclairs,2022-03-08 00:00:00,6237,88
+Roddy Speechley,Canada,Milk Bars,2022-07-13 00:00:00,609,32
+Roddy Speechley,Canada,Orange Choco,2022-02-09 00:00:00,8148,85
+Roddy Speechley,Canada,Organic Choco Syrup,2022-01-10 00:00:00,4032,82
+Roddy Speechley,Canada,Smooth Sliky Salty,2022-03-07 00:00:00,9338,11
+Roddy Speechley,Canada,Spicy Special Slims,2022-02-09 00:00:00,1652,186
+Roddy Speechley,Canada,White Choc,2022-04-05 00:00:00,5887,268
+Roddy Speechley,India,50% Dark Bites,2022-03-14 00:00:00,8337,12
+Roddy Speechley,India,After Nines,2022-06-22 00:00:00,2576,112
+Roddy Speechley,India,Caramel Stuffed Bars,2022-05-30 00:00:00,8911,543
+Roddy Speechley,India,Drinking Coco,2022-05-31 00:00:00,4494,11
+Roddy Speechley,India,Eclairs,2022-06-10 00:00:00,4382,303
+Roddy Speechley,India,Orange Choco,2022-06-27 00:00:00,4053,19
+Roddy Speechley,India,Peanut Butter Cubes,2022-02-11 00:00:00,10283,21
+Roddy Speechley,India,Smooth Sliky Salty,2022-08-10 00:00:00,5103,140
+Roddy Speechley,India,Spicy Special Slims,2022-03-22 00:00:00,10647,173
+Roddy Speechley,New Zealand,50% Dark Bites,2022-05-09 00:00:00,4312,211
+Roddy Speechley,New Zealand,85% Dark Bars,2022-04-14 00:00:00,4844,275
+Roddy Speechley,New Zealand,99% Dark & Pure,2022-04-18 00:00:00,7483,183
+Roddy Speechley,New Zealand,After Nines,2022-05-25 00:00:00,8001,10
+Roddy Speechley,New Zealand,Almond Choco,2022-03-28 00:00:00,2723,67
+Roddy Speechley,New Zealand,Baker's Choco Chips,2022-02-22 00:00:00,5313,215
+Roddy Speechley,New Zealand,Milk Bars,2022-03-02 00:00:00,5446,116
+Roddy Speechley,New Zealand,Orange Choco,2022-04-01 00:00:00,49,97
+Roddy Speechley,UK,70% Dark Bites,2022-03-24 00:00:00,1421,284
+Roddy Speechley,UK,Baker's Choco Chips,2022-04-04 00:00:00,14028,351
+Roddy Speechley,UK,Peanut Butter Cubes,2022-08-17 00:00:00,5691,171
+Roddy Speechley,UK,Raspberry Choco,2022-01-28 00:00:00,12635,194
+Roddy Speechley,USA,50% Dark Bites,2022-02-11 00:00:00,10458,316
+Roddy Speechley,USA,Drinking Coco,2022-02-21 00:00:00,3003,155
+Roddy Speechley,USA,Eclairs,2022-04-25 00:00:00,3990,155
+Roddy Speechley,USA,Fruit & Nut Bars,2022-06-14 00:00:00,5509,24
+Roddy Speechley,USA,Manuka Honey Choco,2022-07-22 00:00:00,9583,315
+Roddy Speechley,USA,Milk Bars,2022-05-16 00:00:00,2807,252
+Roddy Speechley,USA,Peanut Butter Cubes,2022-02-25 00:00:00,1736,137
+Roddy Speechley,USA,Smooth Sliky Salty,2022-04-05 00:00:00,3017,140
+Van Tuxwell,Australia,50% Dark Bites,2022-07-13 00:00:00,644,137
+Van Tuxwell,Australia,70% Dark Bites,2022-01-10 00:00:00,7063,104
+Van Tuxwell,Australia,99% Dark & Pure,2022-01-17 00:00:00,112,128
+Van Tuxwell,Australia,Baker's Choco Chips,2022-05-11 00:00:00,13258,32
+Van Tuxwell,Australia,Caramel Stuffed Bars,2022-05-17 00:00:00,5936,59
+Van Tuxwell,Australia,Milk Bars,2022-06-20 00:00:00,7910,87
+Van Tuxwell,Australia,Mint Chip Choco,2022-01-13 00:00:00,2674,295
+Van Tuxwell,Australia,Organic Choco Syrup,2022-08-10 00:00:00,19453,14
+Van Tuxwell,Canada,50% Dark Bites,2022-05-12 00:00:00,13685,58
+Van Tuxwell,Canada,70% Dark Bites,2022-06-02 00:00:00,7077,77
+Van Tuxwell,Canada,Almond Choco,2022-06-27 00:00:00,3213,72
+Van Tuxwell,Canada,Choco Coated Almonds,2022-08-19 00:00:00,2282,296
+Van Tuxwell,Canada,Drinking Coco,2022-06-15 00:00:00,4900,709
+Van Tuxwell,Canada,Manuka Honey Choco,2022-02-24 00:00:00,8617,46
+Van Tuxwell,Canada,Organic Choco Syrup,2022-02-14 00:00:00,4067,42
+Van Tuxwell,Canada,Peanut Butter Cubes,2022-06-24 00:00:00,6342,282
+Van Tuxwell,Canada,Raspberry Choco,2022-03-17 00:00:00,1267,130
+Van Tuxwell,Canada,White Choc,2022-03-22 00:00:00,420,3
+Van Tuxwell,India,50% Dark Bites,2022-05-13 00:00:00,5103,129
+Van Tuxwell,India,85% Dark Bars,2022-08-01 00:00:00,7896,94
+Van Tuxwell,India,After Nines,2022-06-27 00:00:00,13706,207
+Van Tuxwell,India,Almond Choco,2022-06-14 00:00:00,6426,390
+Van Tuxwell,India,Baker's Choco Chips,2022-06-20 00:00:00,3052,447
+Van Tuxwell,India,Choco Coated Almonds,2022-04-13 00:00:00,5733,114
+Van Tuxwell,India,Eclairs,2022-07-21 00:00:00,10500,106
+Van Tuxwell,India,Organic Choco Syrup,2022-05-16 00:00:00,19929,174
+Van Tuxwell,India,Smooth Sliky Salty,2022-06-06 00:00:00,5376,38
+Van Tuxwell,India,Spicy Special Slims,2022-04-11 00:00:00,6167,4
+Van Tuxwell,India,White Choc,2022-03-15 00:00:00,1897,44
+Van Tuxwell,New Zealand,50% Dark Bites,2022-07-11 00:00:00,3626,10
+Van Tuxwell,New Zealand,85% Dark Bars,2022-05-24 00:00:00,1722,121
+Van Tuxwell,New Zealand,Baker's Choco Chips,2022-03-22 00:00:00,9660,24
+Van Tuxwell,New Zealand,Eclairs,2022-03-01 00:00:00,5229,182
+Van Tuxwell,New Zealand,Fruit & Nut Bars,2022-01-17 00:00:00,2996,88
+Van Tuxwell,New Zealand,Mint Chip Choco,2022-06-27 00:00:00,4046,103
+Van Tuxwell,New Zealand,Smooth Sliky Salty,2022-06-14 00:00:00,3115,42
+Van Tuxwell,UK,85% Dark Bars,2022-07-11 00:00:00,3577,134
+Van Tuxwell,UK,99% Dark & Pure,2022-01-31 00:00:00,4725,137
+Van Tuxwell,UK,Almond Choco,2022-06-06 00:00:00,10689,204
+Van Tuxwell,UK,Baker's Choco Chips,2022-03-24 00:00:00,2443,20
+Van Tuxwell,UK,Drinking Coco,2022-04-04 00:00:00,5803,136
+Van Tuxwell,UK,Eclairs,2022-06-29 00:00:00,5474,109
+Van Tuxwell,UK,Milk Bars,2022-07-25 00:00:00,4263,90
+Van Tuxwell,UK,Organic Choco Syrup,2022-08-26 00:00:00,2002,214
+Van Tuxwell,UK,Raspberry Choco,2022-03-16 00:00:00,6538,79
+Van Tuxwell,USA,50% Dark Bites,2022-01-13 00:00:00,9737,160
+Van Tuxwell,USA,99% Dark & Pure,2022-07-28 00:00:00,12586,6
+Van Tuxwell,USA,After Nines,2022-07-26 00:00:00,630,264
+Van Tuxwell,USA,Caramel Stuffed Bars,2022-02-14 00:00:00,987,21
+Van Tuxwell,USA,Fruit & Nut Bars,2022-07-05 00:00:00,6279,235
+Van Tuxwell,USA,Manuka Honey Choco,2022-05-31 00:00:00,2317,102
+Wilone O'Kielt,Australia,50% Dark Bites,2022-08-03 00:00:00,10031,114
+Wilone O'Kielt,Australia,After Nines,2022-05-27 00:00:00,3325,26
+Wilone O'Kielt,Australia,Baker's Choco Chips,2022-01-25 00:00:00,2961,154
+Wilone O'Kielt,Australia,Caramel Stuffed Bars,2022-04-14 00:00:00,2030,11
+Wilone O'Kielt,Australia,Drinking Coco,2022-04-06 00:00:00,623,283
+Wilone O'Kielt,Australia,Fruit & Nut Bars,2022-06-15 00:00:00,392,102
+Wilone O'Kielt,Australia,Manuka Honey Choco,2022-05-11 00:00:00,4284,94
+Wilone O'Kielt,Australia,Organic Choco Syrup,2022-07-07 00:00:00,1743,111
+Wilone O'Kielt,Australia,Smooth Sliky Salty,2022-01-04 00:00:00,2226,46
+Wilone O'Kielt,Canada,Fruit & Nut Bars,2022-08-08 00:00:00,3437,181
+Wilone O'Kielt,Canada,Smooth Sliky Salty,2022-06-02 00:00:00,4991,166
+Wilone O'Kielt,India,After Nines,2022-08-04 00:00:00,12026,262
+Wilone O'Kielt,India,Caramel Stuffed Bars,2022-01-13 00:00:00,4179,276
+Wilone O'Kielt,India,Choco Coated Almonds,2022-08-22 00:00:00,2933,233
+Wilone O'Kielt,India,Eclairs,2022-02-25 00:00:00,3549,76
+Wilone O'Kielt,India,Mint Chip Choco,2022-08-22 00:00:00,1309,51
+Wilone O'Kielt,New Zealand,85% Dark Bars,2022-08-02 00:00:00,1827,117
+Wilone O'Kielt,New Zealand,Almond Choco,2022-03-15 00:00:00,9198,144
+Wilone O'Kielt,New Zealand,Baker's Choco Chips,2022-04-22 00:00:00,3836,59
+Wilone O'Kielt,New Zealand,Eclairs,2022-03-11 00:00:00,3311,22
+Wilone O'Kielt,New Zealand,Fruit & Nut Bars,2022-07-11 00:00:00,6426,98
+Wilone O'Kielt,New Zealand,Manuka Honey Choco,2022-07-11 00:00:00,3724,234
+Wilone O'Kielt,New Zealand,Mint Chip Choco,2022-08-19 00:00:00,11662,242
+Wilone O'Kielt,New Zealand,Organic Choco Syrup,2022-01-31 00:00:00,2016,277
+Wilone O'Kielt,UK,Drinking Coco,2022-05-18 00:00:00,3388,55
+Wilone O'Kielt,UK,Milk Bars,2022-08-26 00:00:00,301,65
+Wilone O'Kielt,UK,Organic Choco Syrup,2022-07-12 00:00:00,4858,52
+Wilone O'Kielt,USA,50% Dark Bites,2022-04-18 00:00:00,4501,131
+Wilone O'Kielt,USA,After Nines,2022-04-25 00:00:00,392,30
+Wilone O'Kielt,USA,Choco Coated Almonds,2022-06-06 00:00:00,9457,6
+Wilone O'Kielt,USA,Drinking Coco,2022-06-14 00:00:00,1029,98
+Wilone O'Kielt,USA,Milk Bars,2022-07-15 00:00:00,5012,93
+Wilone O'Kielt,USA,Orange Choco,2022-02-28 00:00:00,7042,37
+Wilone O'Kielt,USA,Smooth Sliky Salty,2022-01-18 00:00:00,504,87
